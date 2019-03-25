@@ -1,0 +1,567 @@
+2019-03-23 14:07:55 [background-preinit] INFO  [org.hibernate.validator.internal.util.Version] - HV000001: Hibernate Validator 6.0.14.Final
+2019-03-23 14:07:55 [main] INFO  [com.hy.demo.demo.DemoApplication] - Starting DemoApplication on tcilay-PC with PID 12020 (D:\study\ideaprojects\SpringBootStudy\target\classes started by tcilay in D:\study\ideaprojects\SpringBootStudy)
+2019-03-23 14:07:55 [main] INFO  [com.hy.demo.demo.DemoApplication] - No active profile set, falling back to default profiles: default
+2019-03-23 14:07:57 [main] INFO  [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] - Tomcat initialized with port(s): 8081 (http)
+2019-03-23 14:07:57 [main] INFO  [org.springframework.web.context.ContextLoader] - Root WebApplicationContext: initialization completed in 2053 ms
+2019-03-23 14:07:58 [main] INFO  [org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor] - Initializing ExecutorService 'applicationTaskExecutor'
+2019-03-23 14:07:58 [main] INFO  [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] - Tomcat started on port(s): 8081 (http) with context path '/study'
+2019-03-23 14:07:58 [main] INFO  [com.hy.demo.demo.DemoApplication] - Started DemoApplication in 3.286 seconds (JVM running for 4.563)
+2019-03-23 14:08:45 [http-nio-8081-exec-1] INFO  [org.springframework.web.servlet.DispatcherServlet] - Initializing Servlet 'dispatcherServlet'
+2019-03-23 14:08:45 [http-nio-8081-exec-1] INFO  [org.springframework.web.servlet.DispatcherServlet] - Completed initialization in 8 ms
+2019-03-23 14:08:45 [http-nio-8081-exec-1] INFO  [com.hy.demo.demo.service.HelloController] - request sayHello ......
+2019-03-23 16:36:27 [background-preinit] INFO  [org.hibernate.validator.internal.util.Version] - HV000001: Hibernate Validator 6.0.14.Final
+2019-03-23 16:36:27 [main] INFO  [com.hy.demo.demo.DemoApplication] - Starting DemoApplication on tcilay-PC with PID 11176 (D:\study\ideaprojects\SpringBootStudy\target\classes started by tcilay in D:\study\ideaprojects\SpringBootStudy)
+2019-03-23 16:36:27 [main] INFO  [com.hy.demo.demo.DemoApplication] - No active profile set, falling back to default profiles: default
+2019-03-23 16:36:29 [main] INFO  [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] - Tomcat initialized with port(s): 8081 (http)
+2019-03-23 16:36:29 [main] INFO  [org.springframework.web.context.ContextLoader] - Root WebApplicationContext: initialization completed in 1667 ms
+2019-03-23 16:36:29 [main] INFO  [org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor] - Initializing ExecutorService 'applicationTaskExecutor'
+2019-03-23 16:36:29 [main] INFO  [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] - Tomcat started on port(s): 8081 (http) with context path '/study'
+2019-03-23 16:36:29 [main] INFO  [com.hy.demo.demo.DemoApplication] - Started DemoApplication in 2.735 seconds (JVM running for 3.909)
+2019-03-23 16:36:34 [http-nio-8081-exec-1] INFO  [org.springframework.web.servlet.DispatcherServlet] - Initializing Servlet 'dispatcherServlet'
+2019-03-23 16:36:34 [http-nio-8081-exec-1] INFO  [org.springframework.web.servlet.DispatcherServlet] - Completed initialization in 8 ms
+2019-03-23 16:36:34 [http-nio-8081-exec-1] INFO  [com.hy.demo.demo.service.HelloController] - request sayHello ......
+2019-03-23 16:36:40 [http-nio-8081-exec-2] INFO  [com.hy.demo.demo.service.HelloController] - request sayHello ......
+2019-03-23 16:36:47 [http-nio-8081-exec-3] INFO  [com.hy.demo.demo.service.HelloController] - request sayHello ......
+2019-03-23 17:00:49 [background-preinit] INFO  [org.hibernate.validator.internal.util.Version] - HV000001: Hibernate Validator 6.0.14.Final
+2019-03-23 17:00:49 [main] INFO  [com.hy.demo.demo.DemoApplication] - Starting DemoApplication on tcilay-PC with PID 5952 (D:\study\ideaprojects\SpringBootStudy\target\classes started by tcilay in D:\study\ideaprojects\SpringBootStudy)
+2019-03-23 17:00:49 [main] INFO  [com.hy.demo.demo.DemoApplication] - No active profile set, falling back to default profiles: default
+2019-03-23 17:00:51 [main] INFO  [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] - Tomcat initialized with port(s): 8081 (http)
+2019-03-23 17:00:51 [main] INFO  [org.springframework.web.context.ContextLoader] - Root WebApplicationContext: initialization completed in 1974 ms
+2019-03-23 17:00:52 [main] INFO  [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] - Tomcat started on port(s): 8081 (http) with context path '/study'
+2019-03-23 17:00:52 [main] INFO  [com.hy.demo.demo.DemoApplication] - Started DemoApplication in 3.297 seconds (JVM running for 4.39)
+2019-03-23 17:00:56 [http-nio-8081-exec-1] INFO  [org.springframework.web.servlet.DispatcherServlet] - Initializing Servlet 'dispatcherServlet'
+2019-03-23 17:00:56 [http-nio-8081-exec-1] INFO  [org.springframework.web.servlet.DispatcherServlet] - Completed initialization in 9 ms
+2019-03-23 17:00:56 [http-nio-8081-exec-1] INFO  [com.hy.demo.demo.service.HelloController] - request sayHello ......
+2019-03-23 17:02:07 [background-preinit] INFO  [org.hibernate.validator.internal.util.Version] - HV000001: Hibernate Validator 6.0.14.Final
+2019-03-23 17:02:08 [main] INFO  [com.hy.demo.demo.DemoApplication] - Starting DemoApplication on tcilay-PC with PID 6420 (D:\study\ideaprojects\SpringBootStudy\target\classes started by tcilay in D:\study\ideaprojects\SpringBootStudy)
+2019-03-23 17:02:08 [main] INFO  [com.hy.demo.demo.DemoApplication] - No active profile set, falling back to default profiles: default
+2019-03-23 17:02:09 [main] INFO  [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] - Tomcat initialized with port(s): 8081 (http)
+2019-03-23 17:02:09 [main] INFO  [org.springframework.web.context.ContextLoader] - Root WebApplicationContext: initialization completed in 1692 ms
+2019-03-23 17:02:10 [main] INFO  [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] - Tomcat started on port(s): 8081 (http) with context path '/study'
+2019-03-23 17:02:10 [main] INFO  [com.hy.demo.demo.DemoApplication] - Started DemoApplication in 2.702 seconds (JVM running for 3.822)
+2019-03-23 17:02:49 [http-nio-8081-exec-1] INFO  [org.springframework.web.servlet.DispatcherServlet] - Initializing Servlet 'dispatcherServlet'
+2019-03-23 17:02:49 [http-nio-8081-exec-1] INFO  [org.springframework.web.servlet.DispatcherServlet] - Completed initialization in 7 ms
+2019-03-23 17:02:49 [http-nio-8081-exec-1] INFO  [com.hy.demo.demo.config.ApiInterceptor] - 这是一个拦截器，处理业务之前调用
+2019-03-23 17:02:49 [http-nio-8081-exec-1] INFO  [com.hy.demo.demo.service.HelloController] - request sayHello ......
+2019-03-23 17:02:49 [http-nio-8081-exec-1] INFO  [com.hy.demo.demo.config.ApiInterceptor] - 这是一个拦截器，处理业务之后调用
+2019-03-23 17:02:49 [http-nio-8081-exec-1] INFO  [com.hy.demo.demo.config.ApiInterceptor] - 这是一个拦截器，在DispatcherServlet完全处理完请求后被调用，可用于清理资源等
+2019-03-23 17:05:43 [background-preinit] INFO  [org.hibernate.validator.internal.util.Version] - HV000001: Hibernate Validator 6.0.14.Final
+2019-03-23 17:05:43 [main] INFO  [com.hy.demo.demo.DemoApplication] - Starting DemoApplication on tcilay-PC with PID 7356 (D:\study\ideaprojects\SpringBootStudy\target\classes started by tcilay in D:\study\ideaprojects\SpringBootStudy)
+2019-03-23 17:05:43 [main] INFO  [com.hy.demo.demo.DemoApplication] - No active profile set, falling back to default profiles: default
+2019-03-23 17:05:45 [main] INFO  [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] - Tomcat initialized with port(s): 8081 (http)
+2019-03-23 17:05:45 [main] INFO  [org.springframework.web.context.ContextLoader] - Root WebApplicationContext: initialization completed in 1827 ms
+2019-03-23 17:05:46 [main] INFO  [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] - Tomcat started on port(s): 8081 (http) with context path '/study'
+2019-03-23 17:05:46 [main] INFO  [com.hy.demo.demo.DemoApplication] - Started DemoApplication in 2.84 seconds (JVM running for 3.913)
+2019-03-23 17:05:49 [http-nio-8081-exec-1] INFO  [org.springframework.web.servlet.DispatcherServlet] - Initializing Servlet 'dispatcherServlet'
+2019-03-23 17:05:49 [http-nio-8081-exec-1] INFO  [org.springframework.web.servlet.DispatcherServlet] - Completed initialization in 8 ms
+2019-03-23 17:05:49 [http-nio-8081-exec-1] INFO  [com.hy.demo.demo.config.ApiInterceptor] - 这是一个拦截器，处理业务之前调用
+2019-03-23 17:05:49 [http-nio-8081-exec-1] INFO  [com.hy.demo.demo.service.HelloController] - request sayHello ......
+2019-03-23 17:05:49 [http-nio-8081-exec-1] INFO  [com.hy.demo.demo.config.ApiInterceptor] - 这是一个拦截器，处理业务之后调用
+2019-03-23 17:05:49 [http-nio-8081-exec-1] INFO  [com.hy.demo.demo.config.ApiInterceptor] - 这是一个拦截器，在DispatcherServlet完全处理完请求后被调用，可用于清理资源等
+2019-03-23 17:11:10 [background-preinit] INFO  [org.hibernate.validator.internal.util.Version] - HV000001: Hibernate Validator 6.0.14.Final
+2019-03-23 17:11:10 [main] INFO  [com.hy.demo.demo.DemoApplication] - Starting DemoApplication on tcilay-PC with PID 11812 (D:\study\ideaprojects\SpringBootStudy\target\classes started by tcilay in D:\study\ideaprojects\SpringBootStudy)
+2019-03-23 17:11:10 [main] INFO  [com.hy.demo.demo.DemoApplication] - No active profile set, falling back to default profiles: default
+2019-03-23 17:11:12 [main] INFO  [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] - Tomcat initialized with port(s): 8081 (http)
+2019-03-23 17:11:12 [main] INFO  [org.springframework.web.context.ContextLoader] - Root WebApplicationContext: initialization completed in 1892 ms
+2019-03-23 17:11:12 [main] INFO  [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] - Tomcat started on port(s): 8081 (http) with context path '/study'
+2019-03-23 17:11:12 [main] INFO  [com.hy.demo.demo.DemoApplication] - Started DemoApplication in 2.748 seconds (JVM running for 3.863)
+2019-03-23 17:11:18 [http-nio-8081-exec-1] INFO  [org.springframework.web.servlet.DispatcherServlet] - Initializing Servlet 'dispatcherServlet'
+2019-03-23 17:11:18 [http-nio-8081-exec-1] INFO  [org.springframework.web.servlet.DispatcherServlet] - Completed initialization in 8 ms
+2019-03-23 17:11:18 [http-nio-8081-exec-1] INFO  [com.hy.demo.demo.config.ApiInterceptor] - 这是一个拦截器，处理业务之前调用
+2019-03-23 17:11:18 [http-nio-8081-exec-1] INFO  [com.hy.demo.demo.service.HelloController] - request sayHello ......
+2019-03-23 17:11:18 [http-nio-8081-exec-1] INFO  [com.hy.demo.demo.config.ApiInterceptor] - 这是一个拦截器，处理业务之后调用
+2019-03-23 17:11:18 [http-nio-8081-exec-1] INFO  [com.hy.demo.demo.config.ApiInterceptor] - 这是一个拦截器，在DispatcherServlet完全处理完请求后被调用，可用于清理资源等
+2019-03-23 20:39:53 [main] INFO  [org.springframework.boot.test.context.SpringBootTestContextBootstrapper] - Neither @ContextConfiguration nor @ContextHierarchy found for test class [com.hy.demo.demo.service.HelloServiceTests], using SpringBootContextLoader
+2019-03-23 20:39:53 [main] INFO  [org.springframework.test.context.support.AbstractContextLoader] - Could not detect default resource locations for test class [com.hy.demo.demo.service.HelloServiceTests]: no resource found for suffixes {-context.xml, Context.groovy}.
+2019-03-23 20:39:53 [main] INFO  [org.springframework.test.context.support.AnnotationConfigContextLoaderUtils] - Could not detect default configuration classes for test class [com.hy.demo.demo.service.HelloServiceTests]: HelloServiceTests does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+2019-03-23 20:39:54 [main] INFO  [org.springframework.boot.test.context.SpringBootTestContextBootstrapper] - Found @SpringBootConfiguration com.hy.demo.demo.DemoApplication for test class com.hy.demo.demo.service.HelloServiceTests
+2019-03-23 20:39:54 [main] INFO  [org.springframework.boot.test.context.SpringBootTestContextBootstrapper] - Loaded default TestExecutionListener class names from location [META-INF/spring.factories]: [org.springframework.boot.test.mock.mockito.MockitoTestExecutionListener, org.springframework.boot.test.mock.mockito.ResetMocksTestExecutionListener, org.springframework.boot.test.autoconfigure.restdocs.RestDocsTestExecutionListener, org.springframework.boot.test.autoconfigure.web.client.MockRestServiceServerResetTestExecutionListener, org.springframework.boot.test.autoconfigure.web.servlet.MockMvcPrintOnlyOnFailureTestExecutionListener, org.springframework.boot.test.autoconfigure.web.servlet.WebDriverTestExecutionListener, org.springframework.test.context.web.ServletTestExecutionListener, org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener, org.springframework.test.context.support.DependencyInjectionTestExecutionListener, org.springframework.test.context.support.DirtiesContextTestExecutionListener, org.springframework.test.context.transaction.TransactionalTestExecutionListener, org.springframework.test.context.jdbc.SqlScriptsTestExecutionListener]
+2019-03-23 20:39:54 [main] INFO  [org.springframework.boot.test.context.SpringBootTestContextBootstrapper] - Using TestExecutionListeners: [org.springframework.test.context.web.ServletTestExecutionListener@22a637e7, org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener@6fe7aac8, org.springframework.boot.test.mock.mockito.MockitoTestExecutionListener@1d119efb, org.springframework.boot.test.autoconfigure.SpringBootDependencyInjectionTestExecutionListener@659a969b, org.springframework.test.context.support.DirtiesContextTestExecutionListener@76908cc0, org.springframework.boot.test.mock.mockito.ResetMocksTestExecutionListener@2473d930, org.springframework.boot.test.autoconfigure.restdocs.RestDocsTestExecutionListener@35047d03, org.springframework.boot.test.autoconfigure.web.client.MockRestServiceServerResetTestExecutionListener@49b0b76, org.springframework.boot.test.autoconfigure.web.servlet.MockMvcPrintOnlyOnFailureTestExecutionListener@769f71a9, org.springframework.boot.test.autoconfigure.web.servlet.WebDriverTestExecutionListener@4c9f8c13]
+2019-03-23 20:39:54 [background-preinit] INFO  [org.hibernate.validator.internal.util.Version] - HV000001: Hibernate Validator 6.0.14.Final
+2019-03-23 20:39:54 [main] INFO  [com.hy.demo.demo.service.HelloServiceTests] - Starting HelloServiceTests on tcilay-PC with PID 10236 (started by tcilay in D:\study\ideaprojects\SpringBootStudy)
+2019-03-23 20:39:54 [main] INFO  [com.hy.demo.demo.service.HelloServiceTests] - No active profile set, falling back to default profiles: default
+2019-03-23 20:39:55 [main] WARN  [org.springframework.boot.web.servlet.context.AnnotationConfigServletWebServerApplicationContext] - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanDefinitionStoreException: Failed to parse configuration class [com.hy.demo.demo.DemoApplication]; nested exception is org.springframework.context.annotation.ConflictingBeanDefinitionException: Annotation-specified bean name 'helloController' for bean class [com.hy.demo.demo.service.HelloController] conflicts with existing, non-compatible bean definition of same name and class [com.hy.demo.demo.controller.HelloController]
+2019-03-23 20:39:56 [main] ERROR [org.springframework.boot.SpringApplication] - Application run failed
+org.springframework.beans.factory.BeanDefinitionStoreException: Failed to parse configuration class [com.hy.demo.demo.DemoApplication]; nested exception is org.springframework.context.annotation.ConflictingBeanDefinitionException: Annotation-specified bean name 'helloController' for bean class [com.hy.demo.demo.service.HelloController] conflicts with existing, non-compatible bean definition of same name and class [com.hy.demo.demo.controller.HelloController]
+	at org.springframework.context.annotation.ConfigurationClassParser.parse(ConfigurationClassParser.java:181)
+	at org.springframework.context.annotation.ConfigurationClassPostProcessor.processConfigBeanDefinitions(ConfigurationClassPostProcessor.java:315)
+	at org.springframework.context.annotation.ConfigurationClassPostProcessor.postProcessBeanDefinitionRegistry(ConfigurationClassPostProcessor.java:232)
+	at org.springframework.context.support.PostProcessorRegistrationDelegate.invokeBeanDefinitionRegistryPostProcessors(PostProcessorRegistrationDelegate.java:275)
+	at org.springframework.context.support.PostProcessorRegistrationDelegate.invokeBeanFactoryPostProcessors(PostProcessorRegistrationDelegate.java:95)
+	at org.springframework.context.support.AbstractApplicationContext.invokeBeanFactoryPostProcessors(AbstractApplicationContext.java:705)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:531)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:142)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:775)
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:397)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:316)
+	at org.springframework.boot.test.context.SpringBootContextLoader.loadContext(SpringBootContextLoader.java:127)
+	at org.springframework.test.context.cache.DefaultCacheAwareContextLoaderDelegate.loadContextInternal(DefaultCacheAwareContextLoaderDelegate.java:99)
+	at org.springframework.test.context.cache.DefaultCacheAwareContextLoaderDelegate.loadContext(DefaultCacheAwareContextLoaderDelegate.java:117)
+	at org.springframework.test.context.support.DefaultTestContext.getApplicationContext(DefaultTestContext.java:108)
+	at org.springframework.test.context.support.DependencyInjectionTestExecutionListener.injectDependencies(DependencyInjectionTestExecutionListener.java:118)
+	at org.springframework.test.context.support.DependencyInjectionTestExecutionListener.prepareTestInstance(DependencyInjectionTestExecutionListener.java:83)
+	at org.springframework.boot.test.autoconfigure.SpringBootDependencyInjectionTestExecutionListener.prepareTestInstance(SpringBootDependencyInjectionTestExecutionListener.java:44)
+	at org.springframework.test.context.TestContextManager.prepareTestInstance(TestContextManager.java:246)
+	at org.springframework.test.context.junit4.SpringJUnit4ClassRunner.createTest(SpringJUnit4ClassRunner.java:227)
+	at org.springframework.test.context.junit4.SpringJUnit4ClassRunner$1.runReflectiveCall(SpringJUnit4ClassRunner.java:289)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.springframework.test.context.junit4.SpringJUnit4ClassRunner.methodBlock(SpringJUnit4ClassRunner.java:291)
+	at org.springframework.test.context.junit4.SpringJUnit4ClassRunner.runChild(SpringJUnit4ClassRunner.java:246)
+	at org.springframework.test.context.junit4.SpringJUnit4ClassRunner.runChild(SpringJUnit4ClassRunner.java:97)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)
+	at org.springframework.test.context.junit4.statements.RunBeforeTestClassCallbacks.evaluate(RunBeforeTestClassCallbacks.java:61)
+	at org.springframework.test.context.junit4.statements.RunAfterTestClassCallbacks.evaluate(RunAfterTestClassCallbacks.java:70)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)
+	at org.springframework.test.context.junit4.SpringJUnit4ClassRunner.run(SpringJUnit4ClassRunner.java:190)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:137)
+	at com.intellij.junit4.JUnit4IdeaTestRunner.startRunnerWithArgs(JUnit4IdeaTestRunner.java:68)
+	at com.intellij.rt.execution.junit.IdeaTestRunner$Repeater.startRunnerWithArgs(IdeaTestRunner.java:47)
+	at com.intellij.rt.execution.junit.JUnitStarter.prepareStreamsAndStart(JUnitStarter.java:242)
+	at com.intellij.rt.execution.junit.JUnitStarter.main(JUnitStarter.java:70)
+Caused by: org.springframework.context.annotation.ConflictingBeanDefinitionException: Annotation-specified bean name 'helloController' for bean class [com.hy.demo.demo.service.HelloController] conflicts with existing, non-compatible bean definition of same name and class [com.hy.demo.demo.controller.HelloController]
+	at org.springframework.context.annotation.ClassPathBeanDefinitionScanner.checkCandidate(ClassPathBeanDefinitionScanner.java:348)
+	at org.springframework.context.annotation.ClassPathBeanDefinitionScanner.doScan(ClassPathBeanDefinitionScanner.java:286)
+	at org.springframework.context.annotation.ComponentScanAnnotationParser.parse(ComponentScanAnnotationParser.java:132)
+	at org.springframework.context.annotation.ConfigurationClassParser.doProcessConfigurationClass(ConfigurationClassParser.java:287)
+	at org.springframework.context.annotation.ConfigurationClassParser.processConfigurationClass(ConfigurationClassParser.java:242)
+	at org.springframework.context.annotation.ConfigurationClassParser.parse(ConfigurationClassParser.java:199)
+	at org.springframework.context.annotation.ConfigurationClassParser.parse(ConfigurationClassParser.java:167)
+	... 38 more
+2019-03-23 20:39:56 [main] INFO  [com.hy.demo.demo.service.HelloServiceTests] - Starting HelloServiceTests on tcilay-PC with PID 10236 (started by tcilay in D:\study\ideaprojects\SpringBootStudy)
+2019-03-23 20:39:56 [main] INFO  [com.hy.demo.demo.service.HelloServiceTests] - No active profile set, falling back to default profiles: default
+2019-03-23 20:39:56 [main] WARN  [org.springframework.boot.web.servlet.context.AnnotationConfigServletWebServerApplicationContext] - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanDefinitionStoreException: Failed to parse configuration class [com.hy.demo.demo.DemoApplication]; nested exception is org.springframework.context.annotation.ConflictingBeanDefinitionException: Annotation-specified bean name 'helloController' for bean class [com.hy.demo.demo.service.HelloController] conflicts with existing, non-compatible bean definition of same name and class [com.hy.demo.demo.controller.HelloController]
+2019-03-23 20:39:56 [main] ERROR [org.springframework.boot.SpringApplication] - Application run failed
+org.springframework.beans.factory.BeanDefinitionStoreException: Failed to parse configuration class [com.hy.demo.demo.DemoApplication]; nested exception is org.springframework.context.annotation.ConflictingBeanDefinitionException: Annotation-specified bean name 'helloController' for bean class [com.hy.demo.demo.service.HelloController] conflicts with existing, non-compatible bean definition of same name and class [com.hy.demo.demo.controller.HelloController]
+	at org.springframework.context.annotation.ConfigurationClassParser.parse(ConfigurationClassParser.java:181)
+	at org.springframework.context.annotation.ConfigurationClassPostProcessor.processConfigBeanDefinitions(ConfigurationClassPostProcessor.java:315)
+	at org.springframework.context.annotation.ConfigurationClassPostProcessor.postProcessBeanDefinitionRegistry(ConfigurationClassPostProcessor.java:232)
+	at org.springframework.context.support.PostProcessorRegistrationDelegate.invokeBeanDefinitionRegistryPostProcessors(PostProcessorRegistrationDelegate.java:275)
+	at org.springframework.context.support.PostProcessorRegistrationDelegate.invokeBeanFactoryPostProcessors(PostProcessorRegistrationDelegate.java:95)
+	at org.springframework.context.support.AbstractApplicationContext.invokeBeanFactoryPostProcessors(AbstractApplicationContext.java:705)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:531)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:142)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:775)
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:397)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:316)
+	at org.springframework.boot.test.context.SpringBootContextLoader.loadContext(SpringBootContextLoader.java:127)
+	at org.springframework.test.context.cache.DefaultCacheAwareContextLoaderDelegate.loadContextInternal(DefaultCacheAwareContextLoaderDelegate.java:99)
+	at org.springframework.test.context.cache.DefaultCacheAwareContextLoaderDelegate.loadContext(DefaultCacheAwareContextLoaderDelegate.java:117)
+	at org.springframework.test.context.support.DefaultTestContext.getApplicationContext(DefaultTestContext.java:108)
+	at org.springframework.boot.test.autoconfigure.SpringBootDependencyInjectionTestExecutionListener.outputConditionEvaluationReport(SpringBootDependencyInjectionTestExecutionListener.java:54)
+	at org.springframework.boot.test.autoconfigure.SpringBootDependencyInjectionTestExecutionListener.prepareTestInstance(SpringBootDependencyInjectionTestExecutionListener.java:47)
+	at org.springframework.test.context.TestContextManager.prepareTestInstance(TestContextManager.java:246)
+	at org.springframework.test.context.junit4.SpringJUnit4ClassRunner.createTest(SpringJUnit4ClassRunner.java:227)
+	at org.springframework.test.context.junit4.SpringJUnit4ClassRunner$1.runReflectiveCall(SpringJUnit4ClassRunner.java:289)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.springframework.test.context.junit4.SpringJUnit4ClassRunner.methodBlock(SpringJUnit4ClassRunner.java:291)
+	at org.springframework.test.context.junit4.SpringJUnit4ClassRunner.runChild(SpringJUnit4ClassRunner.java:246)
+	at org.springframework.test.context.junit4.SpringJUnit4ClassRunner.runChild(SpringJUnit4ClassRunner.java:97)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)
+	at org.springframework.test.context.junit4.statements.RunBeforeTestClassCallbacks.evaluate(RunBeforeTestClassCallbacks.java:61)
+	at org.springframework.test.context.junit4.statements.RunAfterTestClassCallbacks.evaluate(RunAfterTestClassCallbacks.java:70)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)
+	at org.springframework.test.context.junit4.SpringJUnit4ClassRunner.run(SpringJUnit4ClassRunner.java:190)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:137)
+	at com.intellij.junit4.JUnit4IdeaTestRunner.startRunnerWithArgs(JUnit4IdeaTestRunner.java:68)
+	at com.intellij.rt.execution.junit.IdeaTestRunner$Repeater.startRunnerWithArgs(IdeaTestRunner.java:47)
+	at com.intellij.rt.execution.junit.JUnitStarter.prepareStreamsAndStart(JUnitStarter.java:242)
+	at com.intellij.rt.execution.junit.JUnitStarter.main(JUnitStarter.java:70)
+Caused by: org.springframework.context.annotation.ConflictingBeanDefinitionException: Annotation-specified bean name 'helloController' for bean class [com.hy.demo.demo.service.HelloController] conflicts with existing, non-compatible bean definition of same name and class [com.hy.demo.demo.controller.HelloController]
+	at org.springframework.context.annotation.ClassPathBeanDefinitionScanner.checkCandidate(ClassPathBeanDefinitionScanner.java:348)
+	at org.springframework.context.annotation.ClassPathBeanDefinitionScanner.doScan(ClassPathBeanDefinitionScanner.java:286)
+	at org.springframework.context.annotation.ComponentScanAnnotationParser.parse(ComponentScanAnnotationParser.java:132)
+	at org.springframework.context.annotation.ConfigurationClassParser.doProcessConfigurationClass(ConfigurationClassParser.java:287)
+	at org.springframework.context.annotation.ConfigurationClassParser.processConfigurationClass(ConfigurationClassParser.java:242)
+	at org.springframework.context.annotation.ConfigurationClassParser.parse(ConfigurationClassParser.java:199)
+	at org.springframework.context.annotation.ConfigurationClassParser.parse(ConfigurationClassParser.java:167)
+	... 37 more
+2019-03-23 20:39:56 [main] ERROR [org.springframework.test.context.TestContextManager] - Caught exception while allowing TestExecutionListener [org.springframework.boot.test.autoconfigure.SpringBootDependencyInjectionTestExecutionListener@659a969b] to prepare test instance [com.hy.demo.demo.service.HelloServiceTests@5a7fe64f]
+java.lang.IllegalStateException: Failed to load ApplicationContext
+	at org.springframework.test.context.cache.DefaultCacheAwareContextLoaderDelegate.loadContext(DefaultCacheAwareContextLoaderDelegate.java:125)
+	at org.springframework.test.context.support.DefaultTestContext.getApplicationContext(DefaultTestContext.java:108)
+	at org.springframework.test.context.support.DependencyInjectionTestExecutionListener.injectDependencies(DependencyInjectionTestExecutionListener.java:118)
+	at org.springframework.test.context.support.DependencyInjectionTestExecutionListener.prepareTestInstance(DependencyInjectionTestExecutionListener.java:83)
+	at org.springframework.boot.test.autoconfigure.SpringBootDependencyInjectionTestExecutionListener.prepareTestInstance(SpringBootDependencyInjectionTestExecutionListener.java:44)
+	at org.springframework.test.context.TestContextManager.prepareTestInstance(TestContextManager.java:246)
+	at org.springframework.test.context.junit4.SpringJUnit4ClassRunner.createTest(SpringJUnit4ClassRunner.java:227)
+	at org.springframework.test.context.junit4.SpringJUnit4ClassRunner$1.runReflectiveCall(SpringJUnit4ClassRunner.java:289)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.springframework.test.context.junit4.SpringJUnit4ClassRunner.methodBlock(SpringJUnit4ClassRunner.java:291)
+	at org.springframework.test.context.junit4.SpringJUnit4ClassRunner.runChild(SpringJUnit4ClassRunner.java:246)
+	at org.springframework.test.context.junit4.SpringJUnit4ClassRunner.runChild(SpringJUnit4ClassRunner.java:97)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)
+	at org.springframework.test.context.junit4.statements.RunBeforeTestClassCallbacks.evaluate(RunBeforeTestClassCallbacks.java:61)
+	at org.springframework.test.context.junit4.statements.RunAfterTestClassCallbacks.evaluate(RunAfterTestClassCallbacks.java:70)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)
+	at org.springframework.test.context.junit4.SpringJUnit4ClassRunner.run(SpringJUnit4ClassRunner.java:190)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:137)
+	at com.intellij.junit4.JUnit4IdeaTestRunner.startRunnerWithArgs(JUnit4IdeaTestRunner.java:68)
+	at com.intellij.rt.execution.junit.IdeaTestRunner$Repeater.startRunnerWithArgs(IdeaTestRunner.java:47)
+	at com.intellij.rt.execution.junit.JUnitStarter.prepareStreamsAndStart(JUnitStarter.java:242)
+	at com.intellij.rt.execution.junit.JUnitStarter.main(JUnitStarter.java:70)
+Caused by: org.springframework.beans.factory.BeanDefinitionStoreException: Failed to parse configuration class [com.hy.demo.demo.DemoApplication]; nested exception is org.springframework.context.annotation.ConflictingBeanDefinitionException: Annotation-specified bean name 'helloController' for bean class [com.hy.demo.demo.service.HelloController] conflicts with existing, non-compatible bean definition of same name and class [com.hy.demo.demo.controller.HelloController]
+	at org.springframework.context.annotation.ConfigurationClassParser.parse(ConfigurationClassParser.java:181)
+	at org.springframework.context.annotation.ConfigurationClassPostProcessor.processConfigBeanDefinitions(ConfigurationClassPostProcessor.java:315)
+	at org.springframework.context.annotation.ConfigurationClassPostProcessor.postProcessBeanDefinitionRegistry(ConfigurationClassPostProcessor.java:232)
+	at org.springframework.context.support.PostProcessorRegistrationDelegate.invokeBeanDefinitionRegistryPostProcessors(PostProcessorRegistrationDelegate.java:275)
+	at org.springframework.context.support.PostProcessorRegistrationDelegate.invokeBeanFactoryPostProcessors(PostProcessorRegistrationDelegate.java:95)
+	at org.springframework.context.support.AbstractApplicationContext.invokeBeanFactoryPostProcessors(AbstractApplicationContext.java:705)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:531)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:142)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:775)
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:397)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:316)
+	at org.springframework.boot.test.context.SpringBootContextLoader.loadContext(SpringBootContextLoader.java:127)
+	at org.springframework.test.context.cache.DefaultCacheAwareContextLoaderDelegate.loadContextInternal(DefaultCacheAwareContextLoaderDelegate.java:99)
+	at org.springframework.test.context.cache.DefaultCacheAwareContextLoaderDelegate.loadContext(DefaultCacheAwareContextLoaderDelegate.java:117)
+	... 25 more
+Caused by: org.springframework.context.annotation.ConflictingBeanDefinitionException: Annotation-specified bean name 'helloController' for bean class [com.hy.demo.demo.service.HelloController] conflicts with existing, non-compatible bean definition of same name and class [com.hy.demo.demo.controller.HelloController]
+	at org.springframework.context.annotation.ClassPathBeanDefinitionScanner.checkCandidate(ClassPathBeanDefinitionScanner.java:348)
+	at org.springframework.context.annotation.ClassPathBeanDefinitionScanner.doScan(ClassPathBeanDefinitionScanner.java:286)
+	at org.springframework.context.annotation.ComponentScanAnnotationParser.parse(ComponentScanAnnotationParser.java:132)
+	at org.springframework.context.annotation.ConfigurationClassParser.doProcessConfigurationClass(ConfigurationClassParser.java:287)
+	at org.springframework.context.annotation.ConfigurationClassParser.processConfigurationClass(ConfigurationClassParser.java:242)
+	at org.springframework.context.annotation.ConfigurationClassParser.parse(ConfigurationClassParser.java:199)
+	at org.springframework.context.annotation.ConfigurationClassParser.parse(ConfigurationClassParser.java:167)
+	... 38 more
+2019-03-23 20:40:33 [main] INFO  [org.springframework.boot.test.context.SpringBootTestContextBootstrapper] - Neither @ContextConfiguration nor @ContextHierarchy found for test class [com.hy.demo.demo.service.HelloServiceTests], using SpringBootContextLoader
+2019-03-23 20:40:33 [main] INFO  [org.springframework.test.context.support.AbstractContextLoader] - Could not detect default resource locations for test class [com.hy.demo.demo.service.HelloServiceTests]: no resource found for suffixes {-context.xml, Context.groovy}.
+2019-03-23 20:40:33 [main] INFO  [org.springframework.test.context.support.AnnotationConfigContextLoaderUtils] - Could not detect default configuration classes for test class [com.hy.demo.demo.service.HelloServiceTests]: HelloServiceTests does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+2019-03-23 20:40:33 [main] INFO  [org.springframework.boot.test.context.SpringBootTestContextBootstrapper] - Found @SpringBootConfiguration com.hy.demo.demo.DemoApplication for test class com.hy.demo.demo.service.HelloServiceTests
+2019-03-23 20:40:33 [main] INFO  [org.springframework.boot.test.context.SpringBootTestContextBootstrapper] - Loaded default TestExecutionListener class names from location [META-INF/spring.factories]: [org.springframework.boot.test.mock.mockito.MockitoTestExecutionListener, org.springframework.boot.test.mock.mockito.ResetMocksTestExecutionListener, org.springframework.boot.test.autoconfigure.restdocs.RestDocsTestExecutionListener, org.springframework.boot.test.autoconfigure.web.client.MockRestServiceServerResetTestExecutionListener, org.springframework.boot.test.autoconfigure.web.servlet.MockMvcPrintOnlyOnFailureTestExecutionListener, org.springframework.boot.test.autoconfigure.web.servlet.WebDriverTestExecutionListener, org.springframework.test.context.web.ServletTestExecutionListener, org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener, org.springframework.test.context.support.DependencyInjectionTestExecutionListener, org.springframework.test.context.support.DirtiesContextTestExecutionListener, org.springframework.test.context.transaction.TransactionalTestExecutionListener, org.springframework.test.context.jdbc.SqlScriptsTestExecutionListener]
+2019-03-23 20:40:33 [main] INFO  [org.springframework.boot.test.context.SpringBootTestContextBootstrapper] - Using TestExecutionListeners: [org.springframework.test.context.web.ServletTestExecutionListener@2ea227af, org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener@4386f16, org.springframework.boot.test.mock.mockito.MockitoTestExecutionListener@363ee3a2, org.springframework.boot.test.autoconfigure.SpringBootDependencyInjectionTestExecutionListener@4690b489, org.springframework.test.context.support.DirtiesContextTestExecutionListener@79b06cab, org.springframework.boot.test.mock.mockito.ResetMocksTestExecutionListener@3eb7fc54, org.springframework.boot.test.autoconfigure.restdocs.RestDocsTestExecutionListener@7f552bd3, org.springframework.boot.test.autoconfigure.web.client.MockRestServiceServerResetTestExecutionListener@3c22fc4c, org.springframework.boot.test.autoconfigure.web.servlet.MockMvcPrintOnlyOnFailureTestExecutionListener@460d0a57, org.springframework.boot.test.autoconfigure.web.servlet.WebDriverTestExecutionListener@47d90b9e]
+2019-03-23 20:40:34 [background-preinit] INFO  [org.hibernate.validator.internal.util.Version] - HV000001: Hibernate Validator 6.0.14.Final
+2019-03-23 20:40:34 [main] INFO  [com.hy.demo.demo.service.HelloServiceTests] - Starting HelloServiceTests on tcilay-PC with PID 6452 (started by tcilay in D:\study\ideaprojects\SpringBootStudy)
+2019-03-23 20:40:34 [main] INFO  [com.hy.demo.demo.service.HelloServiceTests] - No active profile set, falling back to default profiles: default
+2019-03-23 20:40:38 [main] INFO  [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] - Tomcat initialized with port(s): 0 (http)
+2019-03-23 20:40:38 [main] INFO  [org.springframework.web.context.ContextLoader] - Root WebApplicationContext: initialization completed in 3648 ms
+2019-03-23 20:40:39 [main] INFO  [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] - Tomcat started on port(s): 60116 (http) with context path '/study'
+2019-03-23 20:40:39 [main] INFO  [com.hy.demo.demo.service.HelloServiceTests] - Started HelloServiceTests in 5.504 seconds (JVM running for 6.968)
+2019-03-23 20:41:17 [main] INFO  [org.springframework.boot.test.context.SpringBootTestContextBootstrapper] - Neither @ContextConfiguration nor @ContextHierarchy found for test class [com.hy.demo.demo.service.HelloServiceTests], using SpringBootContextLoader
+2019-03-23 20:41:17 [main] INFO  [org.springframework.test.context.support.AbstractContextLoader] - Could not detect default resource locations for test class [com.hy.demo.demo.service.HelloServiceTests]: no resource found for suffixes {-context.xml, Context.groovy}.
+2019-03-23 20:41:17 [main] INFO  [org.springframework.test.context.support.AnnotationConfigContextLoaderUtils] - Could not detect default configuration classes for test class [com.hy.demo.demo.service.HelloServiceTests]: HelloServiceTests does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+2019-03-23 20:41:18 [main] INFO  [org.springframework.boot.test.context.SpringBootTestContextBootstrapper] - Found @SpringBootConfiguration com.hy.demo.demo.DemoApplication for test class com.hy.demo.demo.service.HelloServiceTests
+2019-03-23 20:41:18 [main] INFO  [org.springframework.boot.test.context.SpringBootTestContextBootstrapper] - Loaded default TestExecutionListener class names from location [META-INF/spring.factories]: [org.springframework.boot.test.mock.mockito.MockitoTestExecutionListener, org.springframework.boot.test.mock.mockito.ResetMocksTestExecutionListener, org.springframework.boot.test.autoconfigure.restdocs.RestDocsTestExecutionListener, org.springframework.boot.test.autoconfigure.web.client.MockRestServiceServerResetTestExecutionListener, org.springframework.boot.test.autoconfigure.web.servlet.MockMvcPrintOnlyOnFailureTestExecutionListener, org.springframework.boot.test.autoconfigure.web.servlet.WebDriverTestExecutionListener, org.springframework.test.context.web.ServletTestExecutionListener, org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener, org.springframework.test.context.support.DependencyInjectionTestExecutionListener, org.springframework.test.context.support.DirtiesContextTestExecutionListener, org.springframework.test.context.transaction.TransactionalTestExecutionListener, org.springframework.test.context.jdbc.SqlScriptsTestExecutionListener]
+2019-03-23 20:41:18 [main] INFO  [org.springframework.boot.test.context.SpringBootTestContextBootstrapper] - Using TestExecutionListeners: [org.springframework.test.context.web.ServletTestExecutionListener@2ea227af, org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener@4386f16, org.springframework.boot.test.mock.mockito.MockitoTestExecutionListener@363ee3a2, org.springframework.boot.test.autoconfigure.SpringBootDependencyInjectionTestExecutionListener@4690b489, org.springframework.test.context.support.DirtiesContextTestExecutionListener@79b06cab, org.springframework.boot.test.mock.mockito.ResetMocksTestExecutionListener@3eb7fc54, org.springframework.boot.test.autoconfigure.restdocs.RestDocsTestExecutionListener@7f552bd3, org.springframework.boot.test.autoconfigure.web.client.MockRestServiceServerResetTestExecutionListener@3c22fc4c, org.springframework.boot.test.autoconfigure.web.servlet.MockMvcPrintOnlyOnFailureTestExecutionListener@460d0a57, org.springframework.boot.test.autoconfigure.web.servlet.WebDriverTestExecutionListener@47d90b9e]
+2019-03-23 20:41:18 [background-preinit] INFO  [org.hibernate.validator.internal.util.Version] - HV000001: Hibernate Validator 6.0.14.Final
+2019-03-23 20:41:19 [main] INFO  [com.hy.demo.demo.service.HelloServiceTests] - Starting HelloServiceTests on tcilay-PC with PID 11856 (started by tcilay in D:\study\ideaprojects\SpringBootStudy)
+2019-03-23 20:41:19 [main] INFO  [com.hy.demo.demo.service.HelloServiceTests] - No active profile set, falling back to default profiles: default
+2019-03-23 20:41:22 [main] INFO  [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] - Tomcat initialized with port(s): 0 (http)
+2019-03-23 20:41:22 [main] INFO  [org.springframework.web.context.ContextLoader] - Root WebApplicationContext: initialization completed in 3447 ms
+2019-03-23 20:41:23 [main] INFO  [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] - Tomcat started on port(s): 60134 (http) with context path '/study'
+2019-03-23 20:41:23 [main] INFO  [com.hy.demo.demo.service.HelloServiceTests] - Started HelloServiceTests in 5.42 seconds (JVM running for 6.676)
+2019-03-23 20:41:44 [main] INFO  [org.springframework.boot.test.context.SpringBootTestContextBootstrapper] - Neither @ContextConfiguration nor @ContextHierarchy found for test class [com.hy.demo.demo.service.HelloServiceTests], using SpringBootContextLoader
+2019-03-23 20:41:44 [main] INFO  [org.springframework.test.context.support.AbstractContextLoader] - Could not detect default resource locations for test class [com.hy.demo.demo.service.HelloServiceTests]: no resource found for suffixes {-context.xml, Context.groovy}.
+2019-03-23 20:41:44 [main] INFO  [org.springframework.test.context.support.AnnotationConfigContextLoaderUtils] - Could not detect default configuration classes for test class [com.hy.demo.demo.service.HelloServiceTests]: HelloServiceTests does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+2019-03-23 20:41:44 [main] INFO  [org.springframework.boot.test.context.SpringBootTestContextBootstrapper] - Found @SpringBootConfiguration com.hy.demo.demo.DemoApplication for test class com.hy.demo.demo.service.HelloServiceTests
+2019-03-23 20:41:44 [main] INFO  [org.springframework.boot.test.context.SpringBootTestContextBootstrapper] - Loaded default TestExecutionListener class names from location [META-INF/spring.factories]: [org.springframework.boot.test.mock.mockito.MockitoTestExecutionListener, org.springframework.boot.test.mock.mockito.ResetMocksTestExecutionListener, org.springframework.boot.test.autoconfigure.restdocs.RestDocsTestExecutionListener, org.springframework.boot.test.autoconfigure.web.client.MockRestServiceServerResetTestExecutionListener, org.springframework.boot.test.autoconfigure.web.servlet.MockMvcPrintOnlyOnFailureTestExecutionListener, org.springframework.boot.test.autoconfigure.web.servlet.WebDriverTestExecutionListener, org.springframework.test.context.web.ServletTestExecutionListener, org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener, org.springframework.test.context.support.DependencyInjectionTestExecutionListener, org.springframework.test.context.support.DirtiesContextTestExecutionListener, org.springframework.test.context.transaction.TransactionalTestExecutionListener, org.springframework.test.context.jdbc.SqlScriptsTestExecutionListener]
+2019-03-23 20:41:44 [main] INFO  [org.springframework.boot.test.context.SpringBootTestContextBootstrapper] - Using TestExecutionListeners: [org.springframework.test.context.web.ServletTestExecutionListener@2ea227af, org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener@4386f16, org.springframework.boot.test.mock.mockito.MockitoTestExecutionListener@363ee3a2, org.springframework.boot.test.autoconfigure.SpringBootDependencyInjectionTestExecutionListener@4690b489, org.springframework.test.context.support.DirtiesContextTestExecutionListener@79b06cab, org.springframework.boot.test.mock.mockito.ResetMocksTestExecutionListener@3eb7fc54, org.springframework.boot.test.autoconfigure.restdocs.RestDocsTestExecutionListener@7f552bd3, org.springframework.boot.test.autoconfigure.web.client.MockRestServiceServerResetTestExecutionListener@3c22fc4c, org.springframework.boot.test.autoconfigure.web.servlet.MockMvcPrintOnlyOnFailureTestExecutionListener@460d0a57, org.springframework.boot.test.autoconfigure.web.servlet.WebDriverTestExecutionListener@47d90b9e]
+2019-03-23 20:41:44 [background-preinit] INFO  [org.hibernate.validator.internal.util.Version] - HV000001: Hibernate Validator 6.0.14.Final
+2019-03-23 20:41:45 [main] INFO  [com.hy.demo.demo.service.HelloServiceTests] - Starting HelloServiceTests on tcilay-PC with PID 12224 (started by tcilay in D:\study\ideaprojects\SpringBootStudy)
+2019-03-23 20:41:45 [main] INFO  [com.hy.demo.demo.service.HelloServiceTests] - No active profile set, falling back to default profiles: default
+2019-03-23 20:41:49 [main] INFO  [com.hy.demo.demo.service.HelloServiceTests] - Started HelloServiceTests in 4.673 seconds (JVM running for 5.912)
+2019-03-23 20:52:12 [main] INFO  [org.springframework.boot.test.autoconfigure.web.servlet.WebMvcTestContextBootstrapper] - Neither @ContextConfiguration nor @ContextHierarchy found for test class [com.hy.demo.demo.controller.HelloControllerTest], using SpringBootContextLoader
+2019-03-23 20:52:12 [main] INFO  [org.springframework.test.context.support.AbstractContextLoader] - Could not detect default resource locations for test class [com.hy.demo.demo.controller.HelloControllerTest]: no resource found for suffixes {-context.xml, Context.groovy}.
+2019-03-23 20:52:12 [main] INFO  [org.springframework.test.context.support.AnnotationConfigContextLoaderUtils] - Could not detect default configuration classes for test class [com.hy.demo.demo.controller.HelloControllerTest]: HelloControllerTest does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+2019-03-23 20:52:12 [main] INFO  [org.springframework.boot.test.context.SpringBootTestContextBootstrapper] - Found @SpringBootConfiguration com.hy.demo.demo.DemoApplication for test class com.hy.demo.demo.controller.HelloControllerTest
+2019-03-23 20:52:12 [main] INFO  [org.springframework.boot.test.autoconfigure.web.servlet.WebMvcTestContextBootstrapper] - Loaded default TestExecutionListener class names from location [META-INF/spring.factories]: [org.springframework.boot.test.mock.mockito.MockitoTestExecutionListener, org.springframework.boot.test.mock.mockito.ResetMocksTestExecutionListener, org.springframework.boot.test.autoconfigure.restdocs.RestDocsTestExecutionListener, org.springframework.boot.test.autoconfigure.web.client.MockRestServiceServerResetTestExecutionListener, org.springframework.boot.test.autoconfigure.web.servlet.MockMvcPrintOnlyOnFailureTestExecutionListener, org.springframework.boot.test.autoconfigure.web.servlet.WebDriverTestExecutionListener, org.springframework.test.context.web.ServletTestExecutionListener, org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener, org.springframework.test.context.support.DependencyInjectionTestExecutionListener, org.springframework.test.context.support.DirtiesContextTestExecutionListener, org.springframework.test.context.transaction.TransactionalTestExecutionListener, org.springframework.test.context.jdbc.SqlScriptsTestExecutionListener]
+2019-03-23 20:52:12 [main] INFO  [org.springframework.boot.test.autoconfigure.web.servlet.WebMvcTestContextBootstrapper] - Using TestExecutionListeners: [org.springframework.test.context.web.ServletTestExecutionListener@52e677af, org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener@35083305, org.springframework.boot.test.mock.mockito.MockitoTestExecutionListener@8e0379d, org.springframework.boot.test.autoconfigure.SpringBootDependencyInjectionTestExecutionListener@341b80b2, org.springframework.test.context.support.DirtiesContextTestExecutionListener@55a1c291, org.springframework.boot.test.mock.mockito.ResetMocksTestExecutionListener@2145433b, org.springframework.boot.test.autoconfigure.restdocs.RestDocsTestExecutionListener@2890c451, org.springframework.boot.test.autoconfigure.web.client.MockRestServiceServerResetTestExecutionListener@40e6dfe1, org.springframework.boot.test.autoconfigure.web.servlet.MockMvcPrintOnlyOnFailureTestExecutionListener@1b083826, org.springframework.boot.test.autoconfigure.web.servlet.WebDriverTestExecutionListener@105fece7]
+2019-03-23 20:52:12 [background-preinit] INFO  [org.hibernate.validator.internal.util.Version] - HV000001: Hibernate Validator 6.0.14.Final
+2019-03-23 20:52:13 [main] INFO  [com.hy.demo.demo.controller.HelloControllerTest] - Starting HelloControllerTest on tcilay-PC with PID 12200 (started by tcilay in D:\study\ideaprojects\SpringBootStudy)
+2019-03-23 20:52:13 [main] INFO  [com.hy.demo.demo.controller.HelloControllerTest] - No active profile set, falling back to default profiles: default
+2019-03-23 20:52:16 [main] INFO  [org.springframework.boot.test.mock.web.SpringBootMockServletContext] - Initializing Spring TestDispatcherServlet ''
+2019-03-23 20:52:16 [main] INFO  [org.springframework.test.web.servlet.TestDispatcherServlet] - Initializing Servlet ''
+2019-03-23 20:52:16 [main] INFO  [org.springframework.test.web.servlet.TestDispatcherServlet] - Completed initialization in 22 ms
+2019-03-23 20:52:16 [main] INFO  [com.hy.demo.demo.controller.HelloControllerTest] - Started HelloControllerTest in 3.813 seconds (JVM running for 5.16)
+2019-03-23 20:52:16 [main] WARN  [org.springframework.web.servlet.PageNotFound] - No mapping for GET /study/hello
+2019-03-23 20:54:57 [background-preinit] INFO  [org.hibernate.validator.internal.util.Version] - HV000001: Hibernate Validator 6.0.14.Final
+2019-03-23 20:54:58 [main] INFO  [com.hy.demo.demo.DemoApplication] - Starting DemoApplication on tcilay-PC with PID 6424 (D:\study\ideaprojects\SpringBootStudy\target\classes started by tcilay in D:\study\ideaprojects\SpringBootStudy)
+2019-03-23 20:54:58 [main] INFO  [com.hy.demo.demo.DemoApplication] - No active profile set, falling back to default profiles: default
+2019-03-23 20:54:59 [main] INFO  [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] - Tomcat initialized with port(s): 8081 (http)
+2019-03-23 20:54:59 [main] INFO  [org.springframework.web.context.ContextLoader] - Root WebApplicationContext: initialization completed in 1825 ms
+2019-03-23 20:55:00 [main] INFO  [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] - Tomcat started on port(s): 8081 (http) with context path '/study'
+2019-03-23 20:55:00 [main] INFO  [com.hy.demo.demo.DemoApplication] - Started DemoApplication in 3.036 seconds (JVM running for 4.235)
+2019-03-23 20:55:17 [http-nio-8081-exec-1] INFO  [org.springframework.web.servlet.DispatcherServlet] - Initializing Servlet 'dispatcherServlet'
+2019-03-23 20:55:17 [http-nio-8081-exec-1] INFO  [org.springframework.web.servlet.DispatcherServlet] - Completed initialization in 9 ms
+2019-03-23 20:55:17 [http-nio-8081-exec-1] INFO  [com.hy.demo.demo.config.ApiInterceptor] - 这是一个拦截器，处理业务之前调用
+2019-03-23 20:55:17 [http-nio-8081-exec-1] INFO  [com.hy.demo.demo.controller.HelloController] - request sayHello ......
+2019-03-23 20:55:17 [http-nio-8081-exec-1] INFO  [com.hy.demo.demo.config.ApiInterceptor] - 这是一个拦截器，处理业务之后调用
+2019-03-23 20:55:17 [http-nio-8081-exec-1] INFO  [com.hy.demo.demo.config.ApiInterceptor] - 这是一个拦截器，在DispatcherServlet完全处理完请求后被调用，可用于清理资源等
+2019-03-23 20:57:26 [main] INFO  [org.springframework.boot.test.autoconfigure.web.servlet.WebMvcTestContextBootstrapper] - Neither @ContextConfiguration nor @ContextHierarchy found for test class [com.hy.demo.demo.controller.HelloControllerTest], using SpringBootContextLoader
+2019-03-23 20:57:26 [main] INFO  [org.springframework.test.context.support.AbstractContextLoader] - Could not detect default resource locations for test class [com.hy.demo.demo.controller.HelloControllerTest]: no resource found for suffixes {-context.xml, Context.groovy}.
+2019-03-23 20:57:26 [main] INFO  [org.springframework.test.context.support.AnnotationConfigContextLoaderUtils] - Could not detect default configuration classes for test class [com.hy.demo.demo.controller.HelloControllerTest]: HelloControllerTest does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+2019-03-23 20:57:26 [main] INFO  [org.springframework.boot.test.context.SpringBootTestContextBootstrapper] - Found @SpringBootConfiguration com.hy.demo.demo.DemoApplication for test class com.hy.demo.demo.controller.HelloControllerTest
+2019-03-23 20:57:26 [main] INFO  [org.springframework.boot.test.autoconfigure.web.servlet.WebMvcTestContextBootstrapper] - Loaded default TestExecutionListener class names from location [META-INF/spring.factories]: [org.springframework.boot.test.mock.mockito.MockitoTestExecutionListener, org.springframework.boot.test.mock.mockito.ResetMocksTestExecutionListener, org.springframework.boot.test.autoconfigure.restdocs.RestDocsTestExecutionListener, org.springframework.boot.test.autoconfigure.web.client.MockRestServiceServerResetTestExecutionListener, org.springframework.boot.test.autoconfigure.web.servlet.MockMvcPrintOnlyOnFailureTestExecutionListener, org.springframework.boot.test.autoconfigure.web.servlet.WebDriverTestExecutionListener, org.springframework.test.context.web.ServletTestExecutionListener, org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener, org.springframework.test.context.support.DependencyInjectionTestExecutionListener, org.springframework.test.context.support.DirtiesContextTestExecutionListener, org.springframework.test.context.transaction.TransactionalTestExecutionListener, org.springframework.test.context.jdbc.SqlScriptsTestExecutionListener]
+2019-03-23 20:57:26 [main] INFO  [org.springframework.boot.test.autoconfigure.web.servlet.WebMvcTestContextBootstrapper] - Using TestExecutionListeners: [org.springframework.test.context.web.ServletTestExecutionListener@52e677af, org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener@35083305, org.springframework.boot.test.mock.mockito.MockitoTestExecutionListener@8e0379d, org.springframework.boot.test.autoconfigure.SpringBootDependencyInjectionTestExecutionListener@341b80b2, org.springframework.test.context.support.DirtiesContextTestExecutionListener@55a1c291, org.springframework.boot.test.mock.mockito.ResetMocksTestExecutionListener@2145433b, org.springframework.boot.test.autoconfigure.restdocs.RestDocsTestExecutionListener@2890c451, org.springframework.boot.test.autoconfigure.web.client.MockRestServiceServerResetTestExecutionListener@40e6dfe1, org.springframework.boot.test.autoconfigure.web.servlet.MockMvcPrintOnlyOnFailureTestExecutionListener@1b083826, org.springframework.boot.test.autoconfigure.web.servlet.WebDriverTestExecutionListener@105fece7]
+2019-03-23 20:57:27 [background-preinit] INFO  [org.hibernate.validator.internal.util.Version] - HV000001: Hibernate Validator 6.0.14.Final
+2019-03-23 20:57:28 [main] INFO  [com.hy.demo.demo.controller.HelloControllerTest] - Starting HelloControllerTest on tcilay-PC with PID 13288 (started by tcilay in D:\study\ideaprojects\SpringBootStudy)
+2019-03-23 20:57:28 [main] INFO  [com.hy.demo.demo.controller.HelloControllerTest] - No active profile set, falling back to default profiles: default
+2019-03-23 20:57:30 [main] INFO  [org.springframework.boot.test.mock.web.SpringBootMockServletContext] - Initializing Spring TestDispatcherServlet ''
+2019-03-23 20:57:30 [main] INFO  [org.springframework.test.web.servlet.TestDispatcherServlet] - Initializing Servlet ''
+2019-03-23 20:57:30 [main] INFO  [org.springframework.test.web.servlet.TestDispatcherServlet] - Completed initialization in 15 ms
+2019-03-23 20:57:30 [main] INFO  [com.hy.demo.demo.controller.HelloControllerTest] - Started HelloControllerTest in 3.67 seconds (JVM running for 5.041)
+2019-03-23 20:57:30 [main] WARN  [org.springframework.web.servlet.PageNotFound] - No mapping for GET /study/hello
+2019-03-23 20:58:06 [main] INFO  [org.springframework.boot.test.autoconfigure.web.servlet.WebMvcTestContextBootstrapper] - Neither @ContextConfiguration nor @ContextHierarchy found for test class [com.hy.demo.demo.controller.HelloControllerTest], using SpringBootContextLoader
+2019-03-23 20:58:06 [main] INFO  [org.springframework.test.context.support.AbstractContextLoader] - Could not detect default resource locations for test class [com.hy.demo.demo.controller.HelloControllerTest]: no resource found for suffixes {-context.xml, Context.groovy}.
+2019-03-23 20:58:06 [main] INFO  [org.springframework.test.context.support.AnnotationConfigContextLoaderUtils] - Could not detect default configuration classes for test class [com.hy.demo.demo.controller.HelloControllerTest]: HelloControllerTest does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+2019-03-23 20:58:07 [main] INFO  [org.springframework.boot.test.context.SpringBootTestContextBootstrapper] - Found @SpringBootConfiguration com.hy.demo.demo.DemoApplication for test class com.hy.demo.demo.controller.HelloControllerTest
+2019-03-23 20:58:07 [main] INFO  [org.springframework.boot.test.autoconfigure.web.servlet.WebMvcTestContextBootstrapper] - Loaded default TestExecutionListener class names from location [META-INF/spring.factories]: [org.springframework.boot.test.mock.mockito.MockitoTestExecutionListener, org.springframework.boot.test.mock.mockito.ResetMocksTestExecutionListener, org.springframework.boot.test.autoconfigure.restdocs.RestDocsTestExecutionListener, org.springframework.boot.test.autoconfigure.web.client.MockRestServiceServerResetTestExecutionListener, org.springframework.boot.test.autoconfigure.web.servlet.MockMvcPrintOnlyOnFailureTestExecutionListener, org.springframework.boot.test.autoconfigure.web.servlet.WebDriverTestExecutionListener, org.springframework.test.context.web.ServletTestExecutionListener, org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener, org.springframework.test.context.support.DependencyInjectionTestExecutionListener, org.springframework.test.context.support.DirtiesContextTestExecutionListener, org.springframework.test.context.transaction.TransactionalTestExecutionListener, org.springframework.test.context.jdbc.SqlScriptsTestExecutionListener]
+2019-03-23 20:58:07 [main] INFO  [org.springframework.boot.test.autoconfigure.web.servlet.WebMvcTestContextBootstrapper] - Using TestExecutionListeners: [org.springframework.test.context.web.ServletTestExecutionListener@52e677af, org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener@35083305, org.springframework.boot.test.mock.mockito.MockitoTestExecutionListener@8e0379d, org.springframework.boot.test.autoconfigure.SpringBootDependencyInjectionTestExecutionListener@341b80b2, org.springframework.test.context.support.DirtiesContextTestExecutionListener@55a1c291, org.springframework.boot.test.mock.mockito.ResetMocksTestExecutionListener@2145433b, org.springframework.boot.test.autoconfigure.restdocs.RestDocsTestExecutionListener@2890c451, org.springframework.boot.test.autoconfigure.web.client.MockRestServiceServerResetTestExecutionListener@40e6dfe1, org.springframework.boot.test.autoconfigure.web.servlet.MockMvcPrintOnlyOnFailureTestExecutionListener@1b083826, org.springframework.boot.test.autoconfigure.web.servlet.WebDriverTestExecutionListener@105fece7]
+2019-03-23 20:58:07 [background-preinit] INFO  [org.hibernate.validator.internal.util.Version] - HV000001: Hibernate Validator 6.0.14.Final
+2019-03-23 20:58:08 [main] INFO  [com.hy.demo.demo.controller.HelloControllerTest] - Starting HelloControllerTest on tcilay-PC with PID 12384 (started by tcilay in D:\study\ideaprojects\SpringBootStudy)
+2019-03-23 20:58:08 [main] INFO  [com.hy.demo.demo.controller.HelloControllerTest] - No active profile set, falling back to default profiles: default
+2019-03-23 20:58:11 [main] INFO  [org.springframework.boot.test.mock.web.SpringBootMockServletContext] - Initializing Spring TestDispatcherServlet ''
+2019-03-23 20:58:11 [main] INFO  [org.springframework.test.web.servlet.TestDispatcherServlet] - Initializing Servlet ''
+2019-03-23 20:58:11 [main] INFO  [org.springframework.test.web.servlet.TestDispatcherServlet] - Completed initialization in 22 ms
+2019-03-23 20:58:11 [main] INFO  [com.hy.demo.demo.controller.HelloControllerTest] - Started HelloControllerTest in 3.835 seconds (JVM running for 5.467)
+2019-03-23 20:58:11 [main] INFO  [com.hy.demo.demo.config.ApiInterceptor] - 这是一个拦截器，处理业务之前调用
+2019-03-23 20:58:11 [main] INFO  [com.hy.demo.demo.controller.HelloController] - request sayHello ......
+2019-03-23 20:58:11 [main] INFO  [com.hy.demo.demo.config.ApiInterceptor] - 这是一个拦截器，处理业务之后调用
+2019-03-23 20:58:11 [main] INFO  [com.hy.demo.demo.config.ApiInterceptor] - 这是一个拦截器，在DispatcherServlet完全处理完请求后被调用，可用于清理资源等
+2019-03-23 20:59:39 [main] INFO  [org.springframework.boot.test.autoconfigure.web.servlet.WebMvcTestContextBootstrapper] - Neither @ContextConfiguration nor @ContextHierarchy found for test class [com.hy.demo.demo.controller.HelloControllerTest], using SpringBootContextLoader
+2019-03-23 20:59:39 [main] INFO  [org.springframework.test.context.support.AbstractContextLoader] - Could not detect default resource locations for test class [com.hy.demo.demo.controller.HelloControllerTest]: no resource found for suffixes {-context.xml, Context.groovy}.
+2019-03-23 20:59:39 [main] INFO  [org.springframework.test.context.support.AnnotationConfigContextLoaderUtils] - Could not detect default configuration classes for test class [com.hy.demo.demo.controller.HelloControllerTest]: HelloControllerTest does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+2019-03-23 20:59:39 [main] INFO  [org.springframework.boot.test.context.SpringBootTestContextBootstrapper] - Found @SpringBootConfiguration com.hy.demo.demo.DemoApplication for test class com.hy.demo.demo.controller.HelloControllerTest
+2019-03-23 20:59:39 [main] INFO  [org.springframework.boot.test.autoconfigure.web.servlet.WebMvcTestContextBootstrapper] - Loaded default TestExecutionListener class names from location [META-INF/spring.factories]: [org.springframework.boot.test.mock.mockito.MockitoTestExecutionListener, org.springframework.boot.test.mock.mockito.ResetMocksTestExecutionListener, org.springframework.boot.test.autoconfigure.restdocs.RestDocsTestExecutionListener, org.springframework.boot.test.autoconfigure.web.client.MockRestServiceServerResetTestExecutionListener, org.springframework.boot.test.autoconfigure.web.servlet.MockMvcPrintOnlyOnFailureTestExecutionListener, org.springframework.boot.test.autoconfigure.web.servlet.WebDriverTestExecutionListener, org.springframework.test.context.web.ServletTestExecutionListener, org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener, org.springframework.test.context.support.DependencyInjectionTestExecutionListener, org.springframework.test.context.support.DirtiesContextTestExecutionListener, org.springframework.test.context.transaction.TransactionalTestExecutionListener, org.springframework.test.context.jdbc.SqlScriptsTestExecutionListener]
+2019-03-23 20:59:39 [main] INFO  [org.springframework.boot.test.autoconfigure.web.servlet.WebMvcTestContextBootstrapper] - Using TestExecutionListeners: [org.springframework.test.context.web.ServletTestExecutionListener@534df152, org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener@52e677af, org.springframework.boot.test.mock.mockito.MockitoTestExecutionListener@35083305, org.springframework.boot.test.autoconfigure.SpringBootDependencyInjectionTestExecutionListener@8e0379d, org.springframework.test.context.support.DirtiesContextTestExecutionListener@341b80b2, org.springframework.boot.test.mock.mockito.ResetMocksTestExecutionListener@55a1c291, org.springframework.boot.test.autoconfigure.restdocs.RestDocsTestExecutionListener@2145433b, org.springframework.boot.test.autoconfigure.web.client.MockRestServiceServerResetTestExecutionListener@2890c451, org.springframework.boot.test.autoconfigure.web.servlet.MockMvcPrintOnlyOnFailureTestExecutionListener@40e6dfe1, org.springframework.boot.test.autoconfigure.web.servlet.WebDriverTestExecutionListener@1b083826]
+2019-03-23 20:59:40 [background-preinit] INFO  [org.hibernate.validator.internal.util.Version] - HV000001: Hibernate Validator 6.0.14.Final
+2019-03-23 20:59:41 [main] INFO  [com.hy.demo.demo.controller.HelloControllerTest] - Starting HelloControllerTest on tcilay-PC with PID 13028 (started by tcilay in D:\study\ideaprojects\SpringBootStudy)
+2019-03-23 20:59:41 [main] INFO  [com.hy.demo.demo.controller.HelloControllerTest] - No active profile set, falling back to default profiles: default
+2019-03-23 20:59:43 [main] INFO  [org.springframework.boot.test.mock.web.SpringBootMockServletContext] - Initializing Spring TestDispatcherServlet ''
+2019-03-23 20:59:43 [main] INFO  [org.springframework.test.web.servlet.TestDispatcherServlet] - Initializing Servlet ''
+2019-03-23 20:59:43 [main] INFO  [org.springframework.test.web.servlet.TestDispatcherServlet] - Completed initialization in 18 ms
+2019-03-23 20:59:43 [main] INFO  [com.hy.demo.demo.controller.HelloControllerTest] - Started HelloControllerTest in 3.636 seconds (JVM running for 5.147)
+2019-03-23 20:59:43 [main] INFO  [com.hy.demo.demo.config.ApiInterceptor] - 这是一个拦截器，处理业务之前调用
+2019-03-23 20:59:43 [main] INFO  [com.hy.demo.demo.config.ApiInterceptor] - 这是一个拦截器，在DispatcherServlet完全处理完请求后被调用，可用于清理资源等
+2019-03-23 21:03:10 [main] INFO  [org.springframework.boot.test.autoconfigure.web.servlet.WebMvcTestContextBootstrapper] - Neither @ContextConfiguration nor @ContextHierarchy found for test class [com.hy.demo.demo.controller.HelloControllerTest], using SpringBootContextLoader
+2019-03-23 21:03:10 [main] INFO  [org.springframework.test.context.support.AbstractContextLoader] - Could not detect default resource locations for test class [com.hy.demo.demo.controller.HelloControllerTest]: no resource found for suffixes {-context.xml, Context.groovy}.
+2019-03-23 21:03:10 [main] INFO  [org.springframework.test.context.support.AnnotationConfigContextLoaderUtils] - Could not detect default configuration classes for test class [com.hy.demo.demo.controller.HelloControllerTest]: HelloControllerTest does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+2019-03-23 21:03:10 [main] INFO  [org.springframework.boot.test.context.SpringBootTestContextBootstrapper] - Found @SpringBootConfiguration com.hy.demo.demo.DemoApplication for test class com.hy.demo.demo.controller.HelloControllerTest
+2019-03-23 21:03:10 [main] INFO  [org.springframework.boot.test.autoconfigure.web.servlet.WebMvcTestContextBootstrapper] - Loaded default TestExecutionListener class names from location [META-INF/spring.factories]: [org.springframework.boot.test.mock.mockito.MockitoTestExecutionListener, org.springframework.boot.test.mock.mockito.ResetMocksTestExecutionListener, org.springframework.boot.test.autoconfigure.restdocs.RestDocsTestExecutionListener, org.springframework.boot.test.autoconfigure.web.client.MockRestServiceServerResetTestExecutionListener, org.springframework.boot.test.autoconfigure.web.servlet.MockMvcPrintOnlyOnFailureTestExecutionListener, org.springframework.boot.test.autoconfigure.web.servlet.WebDriverTestExecutionListener, org.springframework.test.context.web.ServletTestExecutionListener, org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener, org.springframework.test.context.support.DependencyInjectionTestExecutionListener, org.springframework.test.context.support.DirtiesContextTestExecutionListener, org.springframework.test.context.transaction.TransactionalTestExecutionListener, org.springframework.test.context.jdbc.SqlScriptsTestExecutionListener]
+2019-03-23 21:03:10 [main] INFO  [org.springframework.boot.test.autoconfigure.web.servlet.WebMvcTestContextBootstrapper] - Using TestExecutionListeners: [org.springframework.test.context.web.ServletTestExecutionListener@534df152, org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener@52e677af, org.springframework.boot.test.mock.mockito.MockitoTestExecutionListener@35083305, org.springframework.boot.test.autoconfigure.SpringBootDependencyInjectionTestExecutionListener@8e0379d, org.springframework.test.context.support.DirtiesContextTestExecutionListener@341b80b2, org.springframework.boot.test.mock.mockito.ResetMocksTestExecutionListener@55a1c291, org.springframework.boot.test.autoconfigure.restdocs.RestDocsTestExecutionListener@2145433b, org.springframework.boot.test.autoconfigure.web.client.MockRestServiceServerResetTestExecutionListener@2890c451, org.springframework.boot.test.autoconfigure.web.servlet.MockMvcPrintOnlyOnFailureTestExecutionListener@40e6dfe1, org.springframework.boot.test.autoconfigure.web.servlet.WebDriverTestExecutionListener@1b083826]
+2019-03-23 21:03:11 [background-preinit] INFO  [org.hibernate.validator.internal.util.Version] - HV000001: Hibernate Validator 6.0.14.Final
+2019-03-23 21:03:11 [main] INFO  [com.hy.demo.demo.controller.HelloControllerTest] - Starting HelloControllerTest on tcilay-PC with PID 12976 (started by tcilay in D:\study\ideaprojects\SpringBootStudy)
+2019-03-23 21:03:11 [main] INFO  [com.hy.demo.demo.controller.HelloControllerTest] - No active profile set, falling back to default profiles: default
+2019-03-23 21:03:14 [main] INFO  [org.springframework.boot.test.mock.web.SpringBootMockServletContext] - Initializing Spring TestDispatcherServlet ''
+2019-03-23 21:03:14 [main] INFO  [org.springframework.test.web.servlet.TestDispatcherServlet] - Initializing Servlet ''
+2019-03-23 21:03:14 [main] INFO  [org.springframework.test.web.servlet.TestDispatcherServlet] - Completed initialization in 17 ms
+2019-03-23 21:03:14 [main] INFO  [com.hy.demo.demo.controller.HelloControllerTest] - Started HelloControllerTest in 3.537 seconds (JVM running for 4.815)
+2019-03-23 21:03:14 [main] INFO  [com.hy.demo.demo.config.ApiInterceptor] - 这是一个拦截器，处理业务之前调用
+2019-03-23 21:03:14 [main] INFO  [com.hy.demo.demo.config.ApiInterceptor] - 这是一个拦截器，在DispatcherServlet完全处理完请求后被调用，可用于清理资源等
+2019-03-23 21:06:57 [main] INFO  [org.springframework.boot.test.autoconfigure.web.servlet.WebMvcTestContextBootstrapper] - Neither @ContextConfiguration nor @ContextHierarchy found for test class [com.hy.demo.demo.controller.HelloControllerTest], using SpringBootContextLoader
+2019-03-23 21:06:57 [main] INFO  [org.springframework.test.context.support.AbstractContextLoader] - Could not detect default resource locations for test class [com.hy.demo.demo.controller.HelloControllerTest]: no resource found for suffixes {-context.xml, Context.groovy}.
+2019-03-23 21:06:57 [main] INFO  [org.springframework.test.context.support.AnnotationConfigContextLoaderUtils] - Could not detect default configuration classes for test class [com.hy.demo.demo.controller.HelloControllerTest]: HelloControllerTest does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+2019-03-23 21:06:58 [main] INFO  [org.springframework.boot.test.context.SpringBootTestContextBootstrapper] - Found @SpringBootConfiguration com.hy.demo.demo.DemoApplication for test class com.hy.demo.demo.controller.HelloControllerTest
+2019-03-23 21:06:58 [main] INFO  [org.springframework.boot.test.autoconfigure.web.servlet.WebMvcTestContextBootstrapper] - Loaded default TestExecutionListener class names from location [META-INF/spring.factories]: [org.springframework.boot.test.mock.mockito.MockitoTestExecutionListener, org.springframework.boot.test.mock.mockito.ResetMocksTestExecutionListener, org.springframework.boot.test.autoconfigure.restdocs.RestDocsTestExecutionListener, org.springframework.boot.test.autoconfigure.web.client.MockRestServiceServerResetTestExecutionListener, org.springframework.boot.test.autoconfigure.web.servlet.MockMvcPrintOnlyOnFailureTestExecutionListener, org.springframework.boot.test.autoconfigure.web.servlet.WebDriverTestExecutionListener, org.springframework.test.context.web.ServletTestExecutionListener, org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener, org.springframework.test.context.support.DependencyInjectionTestExecutionListener, org.springframework.test.context.support.DirtiesContextTestExecutionListener, org.springframework.test.context.transaction.TransactionalTestExecutionListener, org.springframework.test.context.jdbc.SqlScriptsTestExecutionListener]
+2019-03-23 21:06:58 [main] INFO  [org.springframework.boot.test.autoconfigure.web.servlet.WebMvcTestContextBootstrapper] - Using TestExecutionListeners: [org.springframework.test.context.web.ServletTestExecutionListener@52e677af, org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener@35083305, org.springframework.boot.test.mock.mockito.MockitoTestExecutionListener@8e0379d, org.springframework.boot.test.autoconfigure.SpringBootDependencyInjectionTestExecutionListener@341b80b2, org.springframework.test.context.support.DirtiesContextTestExecutionListener@55a1c291, org.springframework.boot.test.mock.mockito.ResetMocksTestExecutionListener@2145433b, org.springframework.boot.test.autoconfigure.restdocs.RestDocsTestExecutionListener@2890c451, org.springframework.boot.test.autoconfigure.web.client.MockRestServiceServerResetTestExecutionListener@40e6dfe1, org.springframework.boot.test.autoconfigure.web.servlet.MockMvcPrintOnlyOnFailureTestExecutionListener@1b083826, org.springframework.boot.test.autoconfigure.web.servlet.WebDriverTestExecutionListener@105fece7]
+2019-03-23 21:06:59 [background-preinit] INFO  [org.hibernate.validator.internal.util.Version] - HV000001: Hibernate Validator 6.0.14.Final
+2019-03-23 21:06:59 [main] INFO  [com.hy.demo.demo.controller.HelloControllerTest] - Starting HelloControllerTest on tcilay-PC with PID 12496 (started by tcilay in D:\study\ideaprojects\SpringBootStudy)
+2019-03-23 21:06:59 [main] INFO  [com.hy.demo.demo.controller.HelloControllerTest] - No active profile set, falling back to default profiles: default
+2019-03-23 21:07:02 [main] INFO  [org.springframework.boot.test.mock.web.SpringBootMockServletContext] - Initializing Spring TestDispatcherServlet ''
+2019-03-23 21:07:02 [main] INFO  [org.springframework.test.web.servlet.TestDispatcherServlet] - Initializing Servlet ''
+2019-03-23 21:07:02 [main] INFO  [org.springframework.test.web.servlet.TestDispatcherServlet] - Completed initialization in 15 ms
+2019-03-23 21:07:02 [main] INFO  [com.hy.demo.demo.controller.HelloControllerTest] - Started HelloControllerTest in 4.017 seconds (JVM running for 5.572)
+2019-03-23 21:07:02 [main] INFO  [com.hy.demo.demo.config.ApiInterceptor] - 这是一个拦截器，处理业务之前调用
+2019-03-23 21:07:02 [main] INFO  [com.hy.demo.demo.controller.HelloController] - request sayHello ......
+2019-03-23 21:07:02 [main] INFO  [com.hy.demo.demo.config.ApiInterceptor] - 这是一个拦截器，处理业务之后调用
+2019-03-23 21:07:02 [main] INFO  [com.hy.demo.demo.config.ApiInterceptor] - 这是一个拦截器，在DispatcherServlet完全处理完请求后被调用，可用于清理资源等
+2019-03-23 21:08:06 [main] INFO  [org.springframework.boot.test.autoconfigure.web.servlet.WebMvcTestContextBootstrapper] - Neither @ContextConfiguration nor @ContextHierarchy found for test class [com.hy.demo.demo.controller.HelloControllerTest], using SpringBootContextLoader
+2019-03-23 21:08:06 [main] INFO  [org.springframework.test.context.support.AbstractContextLoader] - Could not detect default resource locations for test class [com.hy.demo.demo.controller.HelloControllerTest]: no resource found for suffixes {-context.xml, Context.groovy}.
+2019-03-23 21:08:06 [main] INFO  [org.springframework.test.context.support.AnnotationConfigContextLoaderUtils] - Could not detect default configuration classes for test class [com.hy.demo.demo.controller.HelloControllerTest]: HelloControllerTest does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+2019-03-23 21:08:07 [main] INFO  [org.springframework.boot.test.context.SpringBootTestContextBootstrapper] - Found @SpringBootConfiguration com.hy.demo.demo.DemoApplication for test class com.hy.demo.demo.controller.HelloControllerTest
+2019-03-23 21:08:07 [main] INFO  [org.springframework.boot.test.autoconfigure.web.servlet.WebMvcTestContextBootstrapper] - Loaded default TestExecutionListener class names from location [META-INF/spring.factories]: [org.springframework.boot.test.mock.mockito.MockitoTestExecutionListener, org.springframework.boot.test.mock.mockito.ResetMocksTestExecutionListener, org.springframework.boot.test.autoconfigure.restdocs.RestDocsTestExecutionListener, org.springframework.boot.test.autoconfigure.web.client.MockRestServiceServerResetTestExecutionListener, org.springframework.boot.test.autoconfigure.web.servlet.MockMvcPrintOnlyOnFailureTestExecutionListener, org.springframework.boot.test.autoconfigure.web.servlet.WebDriverTestExecutionListener, org.springframework.test.context.web.ServletTestExecutionListener, org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener, org.springframework.test.context.support.DependencyInjectionTestExecutionListener, org.springframework.test.context.support.DirtiesContextTestExecutionListener, org.springframework.test.context.transaction.TransactionalTestExecutionListener, org.springframework.test.context.jdbc.SqlScriptsTestExecutionListener]
+2019-03-23 21:08:07 [main] INFO  [org.springframework.boot.test.autoconfigure.web.servlet.WebMvcTestContextBootstrapper] - Using TestExecutionListeners: [org.springframework.test.context.web.ServletTestExecutionListener@52e677af, org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener@35083305, org.springframework.boot.test.mock.mockito.MockitoTestExecutionListener@8e0379d, org.springframework.boot.test.autoconfigure.SpringBootDependencyInjectionTestExecutionListener@341b80b2, org.springframework.test.context.support.DirtiesContextTestExecutionListener@55a1c291, org.springframework.boot.test.mock.mockito.ResetMocksTestExecutionListener@2145433b, org.springframework.boot.test.autoconfigure.restdocs.RestDocsTestExecutionListener@2890c451, org.springframework.boot.test.autoconfigure.web.client.MockRestServiceServerResetTestExecutionListener@40e6dfe1, org.springframework.boot.test.autoconfigure.web.servlet.MockMvcPrintOnlyOnFailureTestExecutionListener@1b083826, org.springframework.boot.test.autoconfigure.web.servlet.WebDriverTestExecutionListener@105fece7]
+2019-03-23 21:08:07 [background-preinit] INFO  [org.hibernate.validator.internal.util.Version] - HV000001: Hibernate Validator 6.0.14.Final
+2019-03-23 21:08:08 [main] INFO  [com.hy.demo.demo.controller.HelloControllerTest] - Starting HelloControllerTest on tcilay-PC with PID 13092 (started by tcilay in D:\study\ideaprojects\SpringBootStudy)
+2019-03-23 21:08:08 [main] INFO  [com.hy.demo.demo.controller.HelloControllerTest] - No active profile set, falling back to default profiles: default
+2019-03-23 21:08:11 [main] INFO  [org.springframework.boot.test.mock.web.SpringBootMockServletContext] - Initializing Spring TestDispatcherServlet ''
+2019-03-23 21:08:11 [main] INFO  [org.springframework.test.web.servlet.TestDispatcherServlet] - Initializing Servlet ''
+2019-03-23 21:08:11 [main] INFO  [org.springframework.test.web.servlet.TestDispatcherServlet] - Completed initialization in 26 ms
+2019-03-23 21:08:11 [main] INFO  [com.hy.demo.demo.controller.HelloControllerTest] - Started HelloControllerTest in 4.117 seconds (JVM running for 5.447)
+2019-03-23 21:08:11 [main] INFO  [com.hy.demo.demo.config.ApiInterceptor] - 这是一个拦截器，处理业务之前调用
+2019-03-23 21:08:11 [main] INFO  [com.hy.demo.demo.controller.HelloController] - request sayHello ......
+2019-03-23 21:08:11 [main] INFO  [com.hy.demo.demo.config.ApiInterceptor] - 这是一个拦截器，处理业务之后调用
+2019-03-23 21:08:11 [main] INFO  [com.hy.demo.demo.config.ApiInterceptor] - 这是一个拦截器，在DispatcherServlet完全处理完请求后被调用，可用于清理资源等
+2019-03-23 21:09:20 [main] INFO  [org.springframework.boot.test.autoconfigure.web.servlet.WebMvcTestContextBootstrapper] - Neither @ContextConfiguration nor @ContextHierarchy found for test class [com.hy.demo.demo.controller.HelloControllerTest], using SpringBootContextLoader
+2019-03-23 21:09:20 [main] INFO  [org.springframework.test.context.support.AbstractContextLoader] - Could not detect default resource locations for test class [com.hy.demo.demo.controller.HelloControllerTest]: no resource found for suffixes {-context.xml, Context.groovy}.
+2019-03-23 21:09:20 [main] INFO  [org.springframework.test.context.support.AnnotationConfigContextLoaderUtils] - Could not detect default configuration classes for test class [com.hy.demo.demo.controller.HelloControllerTest]: HelloControllerTest does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+2019-03-23 21:09:20 [main] INFO  [org.springframework.boot.test.context.SpringBootTestContextBootstrapper] - Found @SpringBootConfiguration com.hy.demo.demo.DemoApplication for test class com.hy.demo.demo.controller.HelloControllerTest
+2019-03-23 21:09:20 [main] INFO  [org.springframework.boot.test.autoconfigure.web.servlet.WebMvcTestContextBootstrapper] - Loaded default TestExecutionListener class names from location [META-INF/spring.factories]: [org.springframework.boot.test.mock.mockito.MockitoTestExecutionListener, org.springframework.boot.test.mock.mockito.ResetMocksTestExecutionListener, org.springframework.boot.test.autoconfigure.restdocs.RestDocsTestExecutionListener, org.springframework.boot.test.autoconfigure.web.client.MockRestServiceServerResetTestExecutionListener, org.springframework.boot.test.autoconfigure.web.servlet.MockMvcPrintOnlyOnFailureTestExecutionListener, org.springframework.boot.test.autoconfigure.web.servlet.WebDriverTestExecutionListener, org.springframework.test.context.web.ServletTestExecutionListener, org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener, org.springframework.test.context.support.DependencyInjectionTestExecutionListener, org.springframework.test.context.support.DirtiesContextTestExecutionListener, org.springframework.test.context.transaction.TransactionalTestExecutionListener, org.springframework.test.context.jdbc.SqlScriptsTestExecutionListener]
+2019-03-23 21:09:20 [main] INFO  [org.springframework.boot.test.autoconfigure.web.servlet.WebMvcTestContextBootstrapper] - Using TestExecutionListeners: [org.springframework.test.context.web.ServletTestExecutionListener@52e677af, org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener@35083305, org.springframework.boot.test.mock.mockito.MockitoTestExecutionListener@8e0379d, org.springframework.boot.test.autoconfigure.SpringBootDependencyInjectionTestExecutionListener@341b80b2, org.springframework.test.context.support.DirtiesContextTestExecutionListener@55a1c291, org.springframework.boot.test.mock.mockito.ResetMocksTestExecutionListener@2145433b, org.springframework.boot.test.autoconfigure.restdocs.RestDocsTestExecutionListener@2890c451, org.springframework.boot.test.autoconfigure.web.client.MockRestServiceServerResetTestExecutionListener@40e6dfe1, org.springframework.boot.test.autoconfigure.web.servlet.MockMvcPrintOnlyOnFailureTestExecutionListener@1b083826, org.springframework.boot.test.autoconfigure.web.servlet.WebDriverTestExecutionListener@105fece7]
+2019-03-23 21:09:20 [background-preinit] INFO  [org.hibernate.validator.internal.util.Version] - HV000001: Hibernate Validator 6.0.14.Final
+2019-03-23 21:09:21 [main] INFO  [com.hy.demo.demo.controller.HelloControllerTest] - Starting HelloControllerTest on tcilay-PC with PID 9564 (started by tcilay in D:\study\ideaprojects\SpringBootStudy)
+2019-03-23 21:09:21 [main] INFO  [com.hy.demo.demo.controller.HelloControllerTest] - No active profile set, falling back to default profiles: default
+2019-03-23 21:09:24 [main] INFO  [org.springframework.boot.test.mock.web.SpringBootMockServletContext] - Initializing Spring TestDispatcherServlet ''
+2019-03-23 21:09:24 [main] INFO  [org.springframework.test.web.servlet.TestDispatcherServlet] - Initializing Servlet ''
+2019-03-23 21:09:24 [main] INFO  [org.springframework.test.web.servlet.TestDispatcherServlet] - Completed initialization in 22 ms
+2019-03-23 21:09:24 [main] INFO  [com.hy.demo.demo.controller.HelloControllerTest] - Started HelloControllerTest in 3.939 seconds (JVM running for 5.303)
+2019-03-23 21:09:24 [main] INFO  [com.hy.demo.demo.config.ApiInterceptor] - 这是一个拦截器，处理业务之前调用
+2019-03-23 21:09:24 [main] INFO  [com.hy.demo.demo.controller.HelloController] - request sayHello ......
+2019-03-23 21:09:24 [main] INFO  [com.hy.demo.demo.config.ApiInterceptor] - 这是一个拦截器，处理业务之后调用
+2019-03-23 21:09:24 [main] INFO  [com.hy.demo.demo.config.ApiInterceptor] - 这是一个拦截器，在DispatcherServlet完全处理完请求后被调用，可用于清理资源等
+2019-03-23 21:11:19 [main] INFO  [org.springframework.boot.test.autoconfigure.web.servlet.WebMvcTestContextBootstrapper] - Neither @ContextConfiguration nor @ContextHierarchy found for test class [com.hy.demo.demo.controller.HelloControllerTest], using SpringBootContextLoader
+2019-03-23 21:11:19 [main] INFO  [org.springframework.test.context.support.AbstractContextLoader] - Could not detect default resource locations for test class [com.hy.demo.demo.controller.HelloControllerTest]: no resource found for suffixes {-context.xml, Context.groovy}.
+2019-03-23 21:11:19 [main] INFO  [org.springframework.test.context.support.AnnotationConfigContextLoaderUtils] - Could not detect default configuration classes for test class [com.hy.demo.demo.controller.HelloControllerTest]: HelloControllerTest does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+2019-03-23 21:11:20 [main] INFO  [org.springframework.boot.test.context.SpringBootTestContextBootstrapper] - Found @SpringBootConfiguration com.hy.demo.demo.DemoApplication for test class com.hy.demo.demo.controller.HelloControllerTest
+2019-03-23 21:11:20 [main] INFO  [org.springframework.boot.test.autoconfigure.web.servlet.WebMvcTestContextBootstrapper] - Loaded default TestExecutionListener class names from location [META-INF/spring.factories]: [org.springframework.boot.test.mock.mockito.MockitoTestExecutionListener, org.springframework.boot.test.mock.mockito.ResetMocksTestExecutionListener, org.springframework.boot.test.autoconfigure.restdocs.RestDocsTestExecutionListener, org.springframework.boot.test.autoconfigure.web.client.MockRestServiceServerResetTestExecutionListener, org.springframework.boot.test.autoconfigure.web.servlet.MockMvcPrintOnlyOnFailureTestExecutionListener, org.springframework.boot.test.autoconfigure.web.servlet.WebDriverTestExecutionListener, org.springframework.test.context.web.ServletTestExecutionListener, org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener, org.springframework.test.context.support.DependencyInjectionTestExecutionListener, org.springframework.test.context.support.DirtiesContextTestExecutionListener, org.springframework.test.context.transaction.TransactionalTestExecutionListener, org.springframework.test.context.jdbc.SqlScriptsTestExecutionListener]
+2019-03-23 21:11:20 [main] INFO  [org.springframework.boot.test.autoconfigure.web.servlet.WebMvcTestContextBootstrapper] - Using TestExecutionListeners: [org.springframework.test.context.web.ServletTestExecutionListener@52e677af, org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener@35083305, org.springframework.boot.test.mock.mockito.MockitoTestExecutionListener@8e0379d, org.springframework.boot.test.autoconfigure.SpringBootDependencyInjectionTestExecutionListener@341b80b2, org.springframework.test.context.support.DirtiesContextTestExecutionListener@55a1c291, org.springframework.boot.test.mock.mockito.ResetMocksTestExecutionListener@2145433b, org.springframework.boot.test.autoconfigure.restdocs.RestDocsTestExecutionListener@2890c451, org.springframework.boot.test.autoconfigure.web.client.MockRestServiceServerResetTestExecutionListener@40e6dfe1, org.springframework.boot.test.autoconfigure.web.servlet.MockMvcPrintOnlyOnFailureTestExecutionListener@1b083826, org.springframework.boot.test.autoconfigure.web.servlet.WebDriverTestExecutionListener@105fece7]
+2019-03-23 21:11:20 [background-preinit] INFO  [org.hibernate.validator.internal.util.Version] - HV000001: Hibernate Validator 6.0.14.Final
+2019-03-23 21:11:21 [main] INFO  [com.hy.demo.demo.controller.HelloControllerTest] - Starting HelloControllerTest on tcilay-PC with PID 13016 (started by tcilay in D:\study\ideaprojects\SpringBootStudy)
+2019-03-23 21:11:21 [main] INFO  [com.hy.demo.demo.controller.HelloControllerTest] - No active profile set, falling back to default profiles: default
+2019-03-23 21:11:24 [main] INFO  [org.springframework.boot.test.mock.web.SpringBootMockServletContext] - Initializing Spring TestDispatcherServlet ''
+2019-03-23 21:11:24 [main] INFO  [org.springframework.test.web.servlet.TestDispatcherServlet] - Initializing Servlet ''
+2019-03-23 21:11:24 [main] INFO  [org.springframework.test.web.servlet.TestDispatcherServlet] - Completed initialization in 18 ms
+2019-03-23 21:11:24 [main] INFO  [com.hy.demo.demo.controller.HelloControllerTest] - Started HelloControllerTest in 4.058 seconds (JVM running for 5.414)
+2019-03-23 21:11:24 [main] INFO  [com.hy.demo.demo.config.ApiInterceptor] - 这是一个拦截器，处理业务之前调用
+2019-03-23 21:11:24 [main] INFO  [com.hy.demo.demo.controller.HelloController] - request sayHello ......
+2019-03-23 21:11:24 [main] INFO  [com.hy.demo.demo.config.ApiInterceptor] - 这是一个拦截器，处理业务之后调用
+2019-03-23 21:11:24 [main] INFO  [com.hy.demo.demo.config.ApiInterceptor] - 这是一个拦截器，在DispatcherServlet完全处理完请求后被调用，可用于清理资源等
+2019-03-23 21:42:49 [background-preinit] INFO  [org.hibernate.validator.internal.util.Version] - HV000001: Hibernate Validator 6.0.14.Final
+2019-03-23 21:42:49 [main] INFO  [com.hy.demo.demo.DemoApplication] - Starting DemoApplication on tcilay-PC with PID 2784 (D:\study\ideaprojects\SpringBootStudy\target\classes started by tcilay in D:\study\ideaprojects\SpringBootStudy)
+2019-03-23 21:42:49 [main] INFO  [com.hy.demo.demo.DemoApplication] - No active profile set, falling back to default profiles: default
+2019-03-23 21:42:51 [main] INFO  [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] - Tomcat initialized with port(s): 8081 (http)
+2019-03-23 21:42:51 [main] INFO  [org.springframework.web.context.ContextLoader] - Root WebApplicationContext: initialization completed in 1704 ms
+2019-03-23 21:42:52 [main] INFO  [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] - Tomcat started on port(s): 8081 (http) with context path '/study'
+2019-03-23 21:42:52 [main] INFO  [com.hy.demo.demo.DemoApplication] - Started DemoApplication in 2.847 seconds (JVM running for 3.981)
+2019-03-23 21:43:03 [http-nio-8081-exec-1] INFO  [org.springframework.web.servlet.DispatcherServlet] - Initializing Servlet 'dispatcherServlet'
+2019-03-23 21:43:03 [http-nio-8081-exec-1] INFO  [org.springframework.web.servlet.DispatcherServlet] - Completed initialization in 7 ms
+2019-03-23 21:43:03 [http-nio-8081-exec-1] INFO  [com.hy.demo.demo.config.ApiInterceptor] - 这是一个拦截器，处理业务之前调用
+2019-03-23 21:43:03 [http-nio-8081-exec-1] INFO  [com.hy.demo.demo.controller.HelloController] - request sayHello ......
+2019-03-23 21:43:03 [http-nio-8081-exec-1] INFO  [com.hy.demo.demo.config.ApiInterceptor] - 这是一个拦截器，处理业务之后调用
+2019-03-23 21:43:03 [http-nio-8081-exec-1] INFO  [com.hy.demo.demo.config.ApiInterceptor] - 这是一个拦截器，在DispatcherServlet完全处理完请求后被调用，可用于清理资源等
+2019-03-23 21:47:16 [background-preinit] INFO  [org.hibernate.validator.internal.util.Version] - HV000001: Hibernate Validator 6.0.14.Final
+2019-03-23 21:47:17 [main] INFO  [com.hy.demo.demo.DemoApplication] - Starting DemoApplication on tcilay-PC with PID 10064 (D:\study\ideaprojects\SpringBootStudy\target\classes started by tcilay in D:\study\ideaprojects\SpringBootStudy)
+2019-03-23 21:47:17 [main] INFO  [com.hy.demo.demo.DemoApplication] - No active profile set, falling back to default profiles: default
+2019-03-23 21:47:19 [main] INFO  [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] - Tomcat initialized with port(s): 8081 (http)
+2019-03-23 21:47:19 [main] INFO  [org.springframework.web.context.ContextLoader] - Root WebApplicationContext: initialization completed in 2094 ms
+2019-03-23 21:47:19 [main] INFO  [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] - Tomcat started on port(s): 8081 (http) with context path '/study'
+2019-03-23 21:47:19 [main] INFO  [com.hy.demo.demo.DemoApplication] - Started DemoApplication in 3.218 seconds (JVM running for 4.428)
+2019-03-23 21:47:32 [http-nio-8081-exec-1] INFO  [org.springframework.web.servlet.DispatcherServlet] - Initializing Servlet 'dispatcherServlet'
+2019-03-23 21:47:32 [http-nio-8081-exec-1] INFO  [org.springframework.web.servlet.DispatcherServlet] - Completed initialization in 7 ms
+2019-03-23 21:47:32 [http-nio-8081-exec-1] INFO  [com.hy.demo.demo.config.ApiInterceptor] - 这是一个拦截器，处理业务之前调用
+2019-03-23 21:47:32 [http-nio-8081-exec-1] INFO  [com.hy.demo.demo.config.ApiInterceptor] - 这是一个拦截器，处理业务之后调用
+2019-03-23 21:47:32 [http-nio-8081-exec-1] INFO  [com.hy.demo.demo.config.ApiInterceptor] - 这是一个拦截器，在DispatcherServlet完全处理完请求后被调用，可用于清理资源等
+2019-03-23 21:47:32 [http-nio-8081-exec-1] INFO  [com.hy.demo.demo.config.ApiInterceptor] - 这是一个拦截器，处理业务之前调用
+2019-03-23 21:47:32 [http-nio-8081-exec-1] INFO  [com.hy.demo.demo.config.ApiInterceptor] - 这是一个拦截器，处理业务之后调用
+2019-03-23 21:47:33 [http-nio-8081-exec-1] INFO  [com.hy.demo.demo.config.ApiInterceptor] - 这是一个拦截器，在DispatcherServlet完全处理完请求后被调用，可用于清理资源等
+2019-03-23 21:48:43 [http-nio-8081-exec-4] INFO  [com.hy.demo.demo.config.ApiInterceptor] - 这是一个拦截器，处理业务之前调用
+2019-03-23 21:48:43 [http-nio-8081-exec-4] INFO  [com.hy.demo.demo.config.ApiInterceptor] - 这是一个拦截器，处理业务之后调用
+2019-03-23 21:48:43 [http-nio-8081-exec-4] INFO  [com.hy.demo.demo.config.ApiInterceptor] - 这是一个拦截器，在DispatcherServlet完全处理完请求后被调用，可用于清理资源等
+2019-03-23 21:48:43 [http-nio-8081-exec-4] INFO  [com.hy.demo.demo.config.ApiInterceptor] - 这是一个拦截器，处理业务之前调用
+2019-03-23 21:48:43 [http-nio-8081-exec-4] INFO  [com.hy.demo.demo.config.ApiInterceptor] - 这是一个拦截器，处理业务之后调用
+2019-03-23 21:48:43 [http-nio-8081-exec-4] INFO  [com.hy.demo.demo.config.ApiInterceptor] - 这是一个拦截器，在DispatcherServlet完全处理完请求后被调用，可用于清理资源等
+2019-03-23 21:49:06 [http-nio-8081-exec-7] INFO  [com.hy.demo.demo.config.ApiInterceptor] - 这是一个拦截器，处理业务之前调用
+2019-03-23 21:49:06 [http-nio-8081-exec-7] INFO  [com.hy.demo.demo.config.ApiInterceptor] - 这是一个拦截器，处理业务之后调用
+2019-03-23 21:49:06 [http-nio-8081-exec-7] INFO  [com.hy.demo.demo.config.ApiInterceptor] - 这是一个拦截器，在DispatcherServlet完全处理完请求后被调用，可用于清理资源等
+2019-03-23 21:49:06 [http-nio-8081-exec-7] INFO  [com.hy.demo.demo.config.ApiInterceptor] - 这是一个拦截器，处理业务之前调用
+2019-03-23 21:49:06 [http-nio-8081-exec-7] INFO  [com.hy.demo.demo.config.ApiInterceptor] - 这是一个拦截器，处理业务之后调用
+2019-03-23 21:49:06 [http-nio-8081-exec-7] INFO  [com.hy.demo.demo.config.ApiInterceptor] - 这是一个拦截器，在DispatcherServlet完全处理完请求后被调用，可用于清理资源等
+2019-03-23 21:49:07 [http-nio-8081-exec-8] INFO  [com.hy.demo.demo.config.ApiInterceptor] - 这是一个拦截器，处理业务之前调用
+2019-03-23 21:49:07 [http-nio-8081-exec-8] INFO  [com.hy.demo.demo.config.ApiInterceptor] - 这是一个拦截器，处理业务之后调用
+2019-03-23 21:49:07 [http-nio-8081-exec-8] INFO  [com.hy.demo.demo.config.ApiInterceptor] - 这是一个拦截器，在DispatcherServlet完全处理完请求后被调用，可用于清理资源等
+2019-03-23 21:49:07 [http-nio-8081-exec-8] INFO  [com.hy.demo.demo.config.ApiInterceptor] - 这是一个拦截器，处理业务之前调用
+2019-03-23 21:49:07 [http-nio-8081-exec-8] INFO  [com.hy.demo.demo.config.ApiInterceptor] - 这是一个拦截器，处理业务之后调用
+2019-03-23 21:49:07 [http-nio-8081-exec-8] INFO  [com.hy.demo.demo.config.ApiInterceptor] - 这是一个拦截器，在DispatcherServlet完全处理完请求后被调用，可用于清理资源等
+2019-03-23 21:49:08 [http-nio-8081-exec-9] INFO  [com.hy.demo.demo.config.ApiInterceptor] - 这是一个拦截器，处理业务之前调用
+2019-03-23 21:49:08 [http-nio-8081-exec-9] INFO  [com.hy.demo.demo.config.ApiInterceptor] - 这是一个拦截器，处理业务之后调用
+2019-03-23 21:49:08 [http-nio-8081-exec-9] INFO  [com.hy.demo.demo.config.ApiInterceptor] - 这是一个拦截器，在DispatcherServlet完全处理完请求后被调用，可用于清理资源等
+2019-03-23 21:49:08 [http-nio-8081-exec-9] INFO  [com.hy.demo.demo.config.ApiInterceptor] - 这是一个拦截器，处理业务之前调用
+2019-03-23 21:49:08 [http-nio-8081-exec-9] INFO  [com.hy.demo.demo.config.ApiInterceptor] - 这是一个拦截器，处理业务之后调用
+2019-03-23 21:49:08 [http-nio-8081-exec-9] INFO  [com.hy.demo.demo.config.ApiInterceptor] - 这是一个拦截器，在DispatcherServlet完全处理完请求后被调用，可用于清理资源等
+2019-03-23 21:49:08 [http-nio-8081-exec-10] INFO  [com.hy.demo.demo.config.ApiInterceptor] - 这是一个拦截器，处理业务之前调用
+2019-03-23 21:49:08 [http-nio-8081-exec-10] INFO  [com.hy.demo.demo.config.ApiInterceptor] - 这是一个拦截器，处理业务之后调用
+2019-03-23 21:49:08 [http-nio-8081-exec-10] INFO  [com.hy.demo.demo.config.ApiInterceptor] - 这是一个拦截器，在DispatcherServlet完全处理完请求后被调用，可用于清理资源等
+2019-03-23 21:49:08 [http-nio-8081-exec-10] INFO  [com.hy.demo.demo.config.ApiInterceptor] - 这是一个拦截器，处理业务之前调用
+2019-03-23 21:49:08 [http-nio-8081-exec-10] INFO  [com.hy.demo.demo.config.ApiInterceptor] - 这是一个拦截器，处理业务之后调用
+2019-03-23 21:49:08 [http-nio-8081-exec-10] INFO  [com.hy.demo.demo.config.ApiInterceptor] - 这是一个拦截器，在DispatcherServlet完全处理完请求后被调用，可用于清理资源等
+2019-03-23 21:49:08 [http-nio-8081-exec-1] INFO  [com.hy.demo.demo.config.ApiInterceptor] - 这是一个拦截器，处理业务之前调用
+2019-03-23 21:49:08 [http-nio-8081-exec-1] INFO  [com.hy.demo.demo.config.ApiInterceptor] - 这是一个拦截器，处理业务之后调用
+2019-03-23 21:49:08 [http-nio-8081-exec-1] INFO  [com.hy.demo.demo.config.ApiInterceptor] - 这是一个拦截器，在DispatcherServlet完全处理完请求后被调用，可用于清理资源等
+2019-03-23 21:49:08 [http-nio-8081-exec-1] INFO  [com.hy.demo.demo.config.ApiInterceptor] - 这是一个拦截器，处理业务之前调用
+2019-03-23 21:49:08 [http-nio-8081-exec-1] INFO  [com.hy.demo.demo.config.ApiInterceptor] - 这是一个拦截器，处理业务之后调用
+2019-03-23 21:49:08 [http-nio-8081-exec-1] INFO  [com.hy.demo.demo.config.ApiInterceptor] - 这是一个拦截器，在DispatcherServlet完全处理完请求后被调用，可用于清理资源等
+2019-03-23 21:49:08 [http-nio-8081-exec-2] INFO  [com.hy.demo.demo.config.ApiInterceptor] - 这是一个拦截器，处理业务之前调用
+2019-03-23 21:49:08 [http-nio-8081-exec-2] INFO  [com.hy.demo.demo.config.ApiInterceptor] - 这是一个拦截器，处理业务之后调用
+2019-03-23 21:49:08 [http-nio-8081-exec-2] INFO  [com.hy.demo.demo.config.ApiInterceptor] - 这是一个拦截器，在DispatcherServlet完全处理完请求后被调用，可用于清理资源等
+2019-03-23 21:49:08 [http-nio-8081-exec-2] INFO  [com.hy.demo.demo.config.ApiInterceptor] - 这是一个拦截器，处理业务之前调用
+2019-03-23 21:49:08 [http-nio-8081-exec-2] INFO  [com.hy.demo.demo.config.ApiInterceptor] - 这是一个拦截器，处理业务之后调用
+2019-03-23 21:49:08 [http-nio-8081-exec-2] INFO  [com.hy.demo.demo.config.ApiInterceptor] - 这是一个拦截器，在DispatcherServlet完全处理完请求后被调用，可用于清理资源等
+2019-03-23 21:49:09 [http-nio-8081-exec-3] INFO  [com.hy.demo.demo.config.ApiInterceptor] - 这是一个拦截器，处理业务之前调用
+2019-03-23 21:49:09 [http-nio-8081-exec-3] INFO  [com.hy.demo.demo.config.ApiInterceptor] - 这是一个拦截器，处理业务之后调用
+2019-03-23 21:49:09 [http-nio-8081-exec-3] INFO  [com.hy.demo.demo.config.ApiInterceptor] - 这是一个拦截器，在DispatcherServlet完全处理完请求后被调用，可用于清理资源等
+2019-03-23 21:49:09 [http-nio-8081-exec-3] INFO  [com.hy.demo.demo.config.ApiInterceptor] - 这是一个拦截器，处理业务之前调用
+2019-03-23 21:49:09 [http-nio-8081-exec-3] INFO  [com.hy.demo.demo.config.ApiInterceptor] - 这是一个拦截器，处理业务之后调用
+2019-03-23 21:49:09 [http-nio-8081-exec-3] INFO  [com.hy.demo.demo.config.ApiInterceptor] - 这是一个拦截器，在DispatcherServlet完全处理完请求后被调用，可用于清理资源等
+2019-03-23 21:49:16 [background-preinit] INFO  [org.hibernate.validator.internal.util.Version] - HV000001: Hibernate Validator 6.0.14.Final
+2019-03-23 21:49:16 [main] INFO  [com.hy.demo.demo.DemoApplication] - Starting DemoApplication on tcilay-PC with PID 12280 (D:\study\ideaprojects\SpringBootStudy\target\classes started by tcilay in D:\study\ideaprojects\SpringBootStudy)
+2019-03-23 21:49:16 [main] INFO  [com.hy.demo.demo.DemoApplication] - No active profile set, falling back to default profiles: default
+2019-03-23 21:49:18 [main] INFO  [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] - Tomcat initialized with port(s): 8081 (http)
+2019-03-23 21:49:18 [main] INFO  [org.springframework.web.context.ContextLoader] - Root WebApplicationContext: initialization completed in 1650 ms
+2019-03-23 21:49:18 [main] INFO  [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] - Tomcat started on port(s): 8081 (http) with context path '/study'
+2019-03-23 21:49:18 [main] INFO  [com.hy.demo.demo.DemoApplication] - Started DemoApplication in 2.678 seconds (JVM running for 3.819)
+2019-03-23 21:49:23 [http-nio-8081-exec-1] INFO  [org.springframework.web.servlet.DispatcherServlet] - Initializing Servlet 'dispatcherServlet'
+2019-03-23 21:49:23 [http-nio-8081-exec-1] INFO  [org.springframework.web.servlet.DispatcherServlet] - Completed initialization in 6 ms
+2019-03-23 21:49:23 [http-nio-8081-exec-1] WARN  [org.springframework.web.servlet.PageNotFound] - No mapping for GET /study/index.html
+2019-03-23 21:49:23 [http-nio-8081-exec-1] INFO  [com.hy.demo.demo.config.ApiInterceptor] - 这是一个拦截器，处理业务之前调用
+2019-03-23 21:49:23 [http-nio-8081-exec-1] INFO  [com.hy.demo.demo.config.ApiInterceptor] - 这是一个拦截器，处理业务之后调用
+2019-03-23 21:49:23 [http-nio-8081-exec-1] INFO  [com.hy.demo.demo.config.ApiInterceptor] - 这是一个拦截器，在DispatcherServlet完全处理完请求后被调用，可用于清理资源等
+2019-03-23 21:49:27 [http-nio-8081-exec-2] WARN  [org.springframework.web.servlet.PageNotFound] - No mapping for GET /study/index.html
+2019-03-23 21:49:27 [http-nio-8081-exec-2] INFO  [com.hy.demo.demo.config.ApiInterceptor] - 这是一个拦截器，处理业务之前调用
+2019-03-23 21:49:27 [http-nio-8081-exec-2] INFO  [com.hy.demo.demo.config.ApiInterceptor] - 这是一个拦截器，处理业务之后调用
+2019-03-23 21:49:27 [http-nio-8081-exec-2] INFO  [com.hy.demo.demo.config.ApiInterceptor] - 这是一个拦截器，在DispatcherServlet完全处理完请求后被调用，可用于清理资源等
+2019-03-23 21:49:27 [http-nio-8081-exec-3] WARN  [org.springframework.web.servlet.PageNotFound] - No mapping for GET /study/index.html
+2019-03-23 21:49:27 [http-nio-8081-exec-3] INFO  [com.hy.demo.demo.config.ApiInterceptor] - 这是一个拦截器，处理业务之前调用
+2019-03-23 21:49:27 [http-nio-8081-exec-3] INFO  [com.hy.demo.demo.config.ApiInterceptor] - 这是一个拦截器，处理业务之后调用
+2019-03-23 21:49:27 [http-nio-8081-exec-3] INFO  [com.hy.demo.demo.config.ApiInterceptor] - 这是一个拦截器，在DispatcherServlet完全处理完请求后被调用，可用于清理资源等
+2019-03-23 21:49:28 [http-nio-8081-exec-4] WARN  [org.springframework.web.servlet.PageNotFound] - No mapping for GET /study/index.html
+2019-03-23 21:49:28 [http-nio-8081-exec-4] INFO  [com.hy.demo.demo.config.ApiInterceptor] - 这是一个拦截器，处理业务之前调用
+2019-03-23 21:49:28 [http-nio-8081-exec-4] INFO  [com.hy.demo.demo.config.ApiInterceptor] - 这是一个拦截器，处理业务之后调用
+2019-03-23 21:49:28 [http-nio-8081-exec-4] INFO  [com.hy.demo.demo.config.ApiInterceptor] - 这是一个拦截器，在DispatcherServlet完全处理完请求后被调用，可用于清理资源等
+2019-03-23 21:49:28 [http-nio-8081-exec-5] WARN  [org.springframework.web.servlet.PageNotFound] - No mapping for GET /study/index.html
+2019-03-23 21:49:28 [http-nio-8081-exec-5] INFO  [com.hy.demo.demo.config.ApiInterceptor] - 这是一个拦截器，处理业务之前调用
+2019-03-23 21:49:28 [http-nio-8081-exec-5] INFO  [com.hy.demo.demo.config.ApiInterceptor] - 这是一个拦截器，处理业务之后调用
+2019-03-23 21:49:28 [http-nio-8081-exec-5] INFO  [com.hy.demo.demo.config.ApiInterceptor] - 这是一个拦截器，在DispatcherServlet完全处理完请求后被调用，可用于清理资源等
+2019-03-23 21:49:28 [http-nio-8081-exec-6] WARN  [org.springframework.web.servlet.PageNotFound] - No mapping for GET /study/index.html
+2019-03-23 21:49:28 [http-nio-8081-exec-6] INFO  [com.hy.demo.demo.config.ApiInterceptor] - 这是一个拦截器，处理业务之前调用
+2019-03-23 21:49:28 [http-nio-8081-exec-6] INFO  [com.hy.demo.demo.config.ApiInterceptor] - 这是一个拦截器，处理业务之后调用
+2019-03-23 21:49:28 [http-nio-8081-exec-6] INFO  [com.hy.demo.demo.config.ApiInterceptor] - 这是一个拦截器，在DispatcherServlet完全处理完请求后被调用，可用于清理资源等
+2019-03-23 21:49:28 [http-nio-8081-exec-7] WARN  [org.springframework.web.servlet.PageNotFound] - No mapping for GET /study/index.html
+2019-03-23 21:49:28 [http-nio-8081-exec-7] INFO  [com.hy.demo.demo.config.ApiInterceptor] - 这是一个拦截器，处理业务之前调用
+2019-03-23 21:49:28 [http-nio-8081-exec-7] INFO  [com.hy.demo.demo.config.ApiInterceptor] - 这是一个拦截器，处理业务之后调用
+2019-03-23 21:49:28 [http-nio-8081-exec-7] INFO  [com.hy.demo.demo.config.ApiInterceptor] - 这是一个拦截器，在DispatcherServlet完全处理完请求后被调用，可用于清理资源等
+2019-03-23 21:49:33 [http-nio-8081-exec-9] INFO  [com.hy.demo.demo.config.ApiInterceptor] - 这是一个拦截器，处理业务之前调用
+2019-03-23 21:49:33 [http-nio-8081-exec-9] INFO  [com.hy.demo.demo.config.ApiInterceptor] - 这是一个拦截器，处理业务之后调用
+2019-03-23 21:49:33 [http-nio-8081-exec-9] INFO  [com.hy.demo.demo.config.ApiInterceptor] - 这是一个拦截器，在DispatcherServlet完全处理完请求后被调用，可用于清理资源等
+2019-03-23 21:49:33 [http-nio-8081-exec-9] INFO  [com.hy.demo.demo.config.ApiInterceptor] - 这是一个拦截器，处理业务之前调用
+2019-03-23 21:49:34 [http-nio-8081-exec-9] INFO  [com.hy.demo.demo.config.ApiInterceptor] - 这是一个拦截器，处理业务之后调用
+2019-03-23 21:49:34 [http-nio-8081-exec-9] INFO  [com.hy.demo.demo.config.ApiInterceptor] - 这是一个拦截器，在DispatcherServlet完全处理完请求后被调用，可用于清理资源等
+2019-03-23 21:51:55 [background-preinit] INFO  [org.hibernate.validator.internal.util.Version] - HV000001: Hibernate Validator 6.0.14.Final
+2019-03-23 21:51:56 [main] INFO  [com.hy.demo.demo.DemoApplication] - Starting DemoApplication on tcilay-PC with PID 14056 (D:\study\ideaprojects\SpringBootStudy\target\classes started by tcilay in D:\study\ideaprojects\SpringBootStudy)
+2019-03-23 21:51:56 [main] INFO  [com.hy.demo.demo.DemoApplication] - No active profile set, falling back to default profiles: default
+2019-03-23 21:51:57 [main] INFO  [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] - Tomcat initialized with port(s): 8081 (http)
+2019-03-23 21:51:57 [main] INFO  [org.springframework.web.context.ContextLoader] - Root WebApplicationContext: initialization completed in 1797 ms
+2019-03-23 21:51:58 [main] INFO  [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] - Tomcat started on port(s): 8081 (http) with context path '/study'
+2019-03-23 21:51:58 [main] INFO  [com.hy.demo.demo.DemoApplication] - Started DemoApplication in 3.045 seconds (JVM running for 4.311)
+2019-03-23 21:52:34 [http-nio-8081-exec-1] INFO  [org.springframework.web.servlet.DispatcherServlet] - Initializing Servlet 'dispatcherServlet'
+2019-03-23 21:52:34 [http-nio-8081-exec-1] INFO  [org.springframework.web.servlet.DispatcherServlet] - Completed initialization in 7 ms
+2019-03-23 21:52:34 [http-nio-8081-exec-1] INFO  [com.hy.demo.demo.config.ApiInterceptor] - 这是一个拦截器，处理业务之前调用
+2019-03-23 21:52:34 [http-nio-8081-exec-1] INFO  [com.hy.demo.demo.config.ApiInterceptor] - 这是一个拦截器，处理业务之后调用
+2019-03-23 21:52:34 [http-nio-8081-exec-1] INFO  [com.hy.demo.demo.config.ApiInterceptor] - 这是一个拦截器，在DispatcherServlet完全处理完请求后被调用，可用于清理资源等
+2019-03-23 22:06:10 [http-nio-8081-exec-4] INFO  [com.hy.demo.demo.config.ApiInterceptor] - 这是一个拦截器，处理业务之前调用
+2019-03-23 22:06:10 [http-nio-8081-exec-4] INFO  [com.hy.demo.demo.config.ApiInterceptor] - 这是一个拦截器，处理业务之后调用
+2019-03-23 22:06:10 [http-nio-8081-exec-4] INFO  [com.hy.demo.demo.config.ApiInterceptor] - 这是一个拦截器，在DispatcherServlet完全处理完请求后被调用，可用于清理资源等
+2019-03-23 22:06:14 [http-nio-8081-exec-5] INFO  [com.hy.demo.demo.config.ApiInterceptor] - 这是一个拦截器，处理业务之前调用
+2019-03-23 22:06:14 [http-nio-8081-exec-5] INFO  [com.hy.demo.demo.config.ApiInterceptor] - 这是一个拦截器，处理业务之后调用
+2019-03-23 22:06:14 [http-nio-8081-exec-5] INFO  [com.hy.demo.demo.config.ApiInterceptor] - 这是一个拦截器，在DispatcherServlet完全处理完请求后被调用，可用于清理资源等
