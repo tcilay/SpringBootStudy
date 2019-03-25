@@ -10,12 +10,15 @@ HELP.md
 .settings
 .springBeans
 .sts4-cache
+.gitignore
+application-dev.properties
 
 ### IntelliJ IDEA ###
 .idea
 *.iws
 *.iml
 *.ipr
+.mvn
 
 ### NetBeans ###
 /nbproject/private/

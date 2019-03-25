@@ -27,13 +27,6 @@ public class WebConfig extends WebMvcConfigurationSupport {
                 .excludePathPatterns("/study/login.html", "/study/login/**");
     }
 
-//    @Override
-//    protected void addResourceHandlers(ResourceHandlerRegistry registry) {
-//        registry.addResourceHandler("/static/**").addResourceLocations("classpath:/static/");
-//        super.addResourceHandlers(registry);
-//    }
-
-
    @Bean
     public ApiInterceptor intercpetor(){
         return new ApiInterceptor();

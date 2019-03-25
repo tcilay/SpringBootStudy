@@ -1,17 +1,11 @@
 package com.hy.demo.demo.entity;
 
-import org.springframework.beans.factory.annotation.Value;
-
 public class User {
 
     private long id;
-    @Value("login.user.name")
     private String name;
-    @Value("login.user.pwd")
     private String pwd;
-    @Value("login.user.age")
     private int age;
-    @Value("login.user.sex")
     private int sex;
 
     public void setId(long id) {
